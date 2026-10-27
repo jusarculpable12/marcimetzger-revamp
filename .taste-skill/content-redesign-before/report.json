@@ -1,0 +1,2803 @@
+{
+ "url": "http://localhost:3000",
+ "at": "2026-10-27T14:29:40.999Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 8,
+   "filled": [
+    0.78,
+    1,
+    1,
+    1,
+    1,
+    0.73,
+    0.93,
+    1
+   ],
+   "motion": {
+    "elements": 26,
+    "css": 7,
+    "transitions": 19,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 6338,
+     "screens": 7,
+     "words": 192,
+     "img": 9,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 6,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 5,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2Fimages%2Fmountain-falls.jpg&w=1920&",
+      "image?url=%2Fimages%2Fmountain-falls.jpg&w=1920&",
+      "image?url=%2Fimages%2Fservice-residential.jpg&w=",
+      "image?url=%2Fimages%2Fservice-property.jpg&w=750",
+      "image?url=%2Fimages%2Fservice-expertise.jpg&w=75"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "PAHRUMP REALTOR MARCI METZGER",
+     "words": 4,
+     "chars": 29,
+     "lines": 1,
+     "size": 137.5,
+     "vw": 9.5,
+     "font": "Panchang",
+     "weight": 400,
+     "tracking": -0.07,
+     "leading": 0.82,
+     "upper": true,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "right",
+     "widthRatio": 1.14,
+     "top": 771,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "PAHRUMP REALTOR MARCI METZGER",
+     "words": 4,
+     "lines": 1,
+     "size": 137.5,
+     "font": "Panchang"
+    },
+    "headings": [
+     {
+      "text": "PAHRUMP REALTOR MARCI METZGER",
+      "words": 4,
+      "chars": 29,
+      "lines": 1,
+      "size": 137.5,
+      "vw": 9.5,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.07,
+      "leading": 0.82,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 1.14,
+      "top": 771,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "PAHRUMP PROOF",
+      "words": 2,
+      "chars": 13,
+      "lines": 2,
+      "size": 100.8,
+      "vw": 7,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.055,
+      "leading": 0.9,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.67,
+      "top": 1100,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "CHOOSE YOUR MOVE",
+      "words": 3,
+      "chars": 16,
+      "lines": 2,
+      "size": 64,
+      "vw": 4.4,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.05,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.64,
+      "top": 1847,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "BUY",
+      "words": 1,
+      "chars": 3,
+      "lines": 1,
+      "size": 129.6,
+      "vw": 9,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.06,
+      "leading": 0.9,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.28,
+      "top": 2045,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "SELL",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 129.6,
+      "vw": 9,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.06,
+      "leading": 0.9,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.33,
+      "top": 2172,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "INVEST",
+      "words": 1,
+      "chars": 6,
+      "lines": 1,
+      "size": 129.6,
+      "vw": 9,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.06,
+      "leading": 0.9,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.48,
+      "top": 2299,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "COMMERCIAL",
+      "words": 1,
+      "chars": 10,
+      "lines": 1,
+      "size": 129.6,
+      "vw": 9,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.06,
+      "leading": 0.9,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 2425,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "PAHRUMP, UP CLOSE",
+      "words": 3,
+      "chars": 17,
+      "lines": 1,
+      "size": 64,
+      "vw": 4.4,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.05,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.81,
+      "top": 3015,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "MARCI, LOCALLY",
+      "words": 2,
+      "chars": 14,
+      "lines": 1,
+      "size": 64,
+      "vw": 4.4,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.05,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 4176,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Marci Metzger has guided Pahrump buyers and sellers for nearly three decades.",
+      "words": 12,
+      "chars": 77,
+      "lines": 2,
+      "size": 36,
+      "vw": 2.5,
+      "font": "Switzer",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.22,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.73,
+      "top": 4309,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "VISIT OR CALL",
+      "words": 3,
+      "chars": 13,
+      "lines": 1,
+      "size": 80.6,
+      "vw": 5.6,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.055,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 4713,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "MARCI METZGER",
+      "words": 2,
+      "chars": 13,
+      "lines": 1,
+      "size": 80.6,
+      "vw": 5.6,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.055,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 4858,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "3190 HW-160, SUITE F",
+      "words": 4,
+      "chars": 20,
+      "lines": 1,
+      "size": 80.6,
+      "vw": 5.6,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.055,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 5003,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "PAHRUMP, NEVADA 89048",
+      "words": 3,
+      "chars": 21,
+      "lines": 2,
+      "size": 80.6,
+      "vw": 5.6,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.055,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 5148,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "OPEN DAILY, 8 AM–7 PM",
+      "words": 5,
+      "chars": 21,
+      "lines": 1,
+      "size": 80.6,
+      "vw": 5.6,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.055,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 5357,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "(206) 919-6886",
+      "words": 2,
+      "chars": 14,
+      "lines": 1,
+      "size": 80.6,
+      "vw": 5.6,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.055,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 5502,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "CALL MARCI",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 80.6,
+      "vw": 5.6,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.055,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.49,
+      "top": 5687,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "MARCI METZGER",
+      "words": 2,
+      "chars": 13,
+      "lines": 1,
+      "size": 132.5,
+      "vw": 9.2,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.07,
+      "leading": 0.82,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1.1,
+      "top": 6174,
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 18,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 5,
+     "centered": 0,
+     "medianWords": 2,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Switzer",
+       "share": 0.8,
+       "mono": false
+      },
+      {
+       "family": "Panchang",
+       "share": 0.2,
+       "mono": false
+      },
+      {
+       "family": "Arial",
+       "share": 0,
+       "mono": false
+      }
+     ],
+     "familyCount": 3,
+     "sizes": [
+      13,
+      14,
+      15,
+      16,
+      19,
+      26,
+      36,
+      44,
+      64,
+      81,
+      101,
+      130,
+      133,
+      138
+     ],
+     "sizeCount": 14,
+     "notLoaded": [],
+     "body": {
+      "font": "Switzer",
+      "size": 19,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 17.2
+     },
+     "measureChars": 80,
+     "max": {
+      "size": 137.5,
+      "vw": 9.5,
+      "font": "Panchang",
+      "text": "Marci"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.2,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#0f1f10",
+     "bodyBgHsl": {
+      "h": 124,
+      "s": 0.35,
+      "l": 0.09
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#0f1f10",
+       "top": 0,
+       "hsl": {
+        "h": 124,
+        "s": 0.35,
+        "l": 0.09
+       }
+      },
+      {
+       "color": "#456243",
+       "top": 0,
+       "hsl": {
+        "h": 116,
+        "s": 0.19,
+        "l": 0.32
+       }
+      },
+      {
+       "color": "#000000",
+       "top": 900,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0
+       }
+      },
+      {
+       "color": "#ffffff",
+       "top": 1674,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#162a17",
+       "top": 2842,
+       "hsl": {
+        "h": 123,
+        "s": 0.31,
+        "l": 0.13
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#0f1f10",
+       "share": 0.4
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.36
+      },
+      {
+       "color": "#263127",
+       "share": 0.16
+      },
+      {
+       "color": "#4f5a50",
+       "share": 0.06
+      },
+      {
+       "color": "#b9c0b9",
+       "share": 0.02
+      }
+     ],
+     "button": {
+      "bg": "#c6f19d",
+      "hsl": {
+       "h": 91,
+       "s": 0.75,
+       "l": 0.78
+      },
+      "fg": "#0f1f10"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 3,
+     "inHero": 2,
+     "radius": 0,
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Call Marci",
+      "Call Marci"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 5,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.58
+     }
+    ],
+    "nav": {
+     "links": 6,
+     "fixed": false,
+     "height": 80,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "panchang",
+     "switzer"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 6338,
+    "margins": {
+     "left": 32,
+     "right": 0
+    },
+    "sections": [
+     {
+      "sel": "section.monument-hero",
+      "tag": "section",
+      "top": 0,
+      "height": 900,
+      "words": 16,
+      "media": 1,
+      "middle": 11,
+      "heading": null,
+      "left": 32,
+      "right": 0,
+      "textLeft": 32,
+      "textRight": 0,
+      "fullBleed": true,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#proof.proof-section",
+      "tag": "section",
+      "top": 900,
+      "height": 774,
+      "words": 20,
+      "media": 0,
+      "middle": 439,
+      "heading": {
+       "text": "Pahrump",
+       "size": 101,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 50,
+      "textLeft": 32,
+      "textRight": 50,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#move.move-section",
+      "tag": "section",
+      "top": 1674,
+      "height": 1168,
+      "words": 23,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Buy",
+       "size": 130,
+       "tag": "span"
+      },
+      "left": 32,
+      "right": 32,
+      "textLeft": 32,
+      "textRight": 32,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#pahrump.showcase-section",
+      "tag": "section",
+      "top": 2842,
+      "height": 1133,
+      "words": 13,
+      "media": 4,
+      "middle": 0,
+      "heading": {
+       "text": "Pahrump, up close",
+       "size": 64,
+       "tag": "h2"
+      },
+      "left": 0,
+      "right": 0,
+      "textLeft": 32,
+      "textRight": 209,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#about.about-section",
+      "tag": "section",
+      "top": 3975,
+      "height": 738,
+      "words": 56,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Marci, locally",
+       "size": 64,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 88,
+      "textLeft": 32,
+      "textRight": 88,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#contact.contact-section",
+      "tag": "section",
+      "top": 4713,
+      "height": 1079,
+      "words": 21,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Visit or call",
+       "size": 81,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 82,
+      "textLeft": 32,
+      "textRight": 82,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "footer.site-footer",
+      "tag": "footer",
+      "top": 5792,
+      "height": 546,
+      "words": 31,
+      "media": 0,
+      "middle": 333,
+      "heading": {
+       "text": "Marci Metzger",
+       "size": 132,
+       "tag": "p"
+      },
+      "left": 32,
+      "right": 90,
+      "textLeft": 32,
+      "textRight": 0,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [
+     {
+      "top": 1540,
+      "height": 296
+     },
+     {
+      "top": 2668,
+      "height": 336
+     },
+     {
+      "top": 3800,
+      "height": 364
+     }
+    ],
+    "h1s": [
+     {
+      "text": "PAHRUMP REALTOR MARCI METZGER",
+      "size": 138,
+      "top": 771,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 32,
+      "n": 7
+     },
+     {
+      "x": 205,
+      "n": 1
+     },
+     {
+      "x": 269,
+      "n": 1
+     },
+     {
+      "x": 321,
+      "n": 1
+     },
+     {
+      "x": 469,
+      "n": 1
+     },
+     {
+      "x": 677,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 12,
+    "bodySize": 19,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0.13,
+    "voidBox": {
+     "x": 0,
+     "y": 600,
+     "w": 1440,
+     "h": 120
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 6,
+   "filled": [
+    0.66,
+    1,
+    0.99,
+    1,
+    0.76,
+    0.93
+   ],
+   "motion": {
+    "elements": 26,
+    "css": 7,
+    "transitions": 19,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 5688,
+     "screens": 5.6,
+     "words": 192,
+     "img": 9,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 6,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 5,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2Fimages%2Fmountain-falls.jpg&w=828&q",
+      "image?url=%2Fimages%2Fmountain-falls.jpg&w=384&q",
+      "image?url=%2Fimages%2Fservice-residential.jpg&w=",
+      "image?url=%2Fimages%2Fservice-property.jpg&w=384",
+      "image?url=%2Fimages%2Fservice-expertise.jpg&w=38"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "PAHRUMP REALTOR MARCI METZGER",
+     "words": 4,
+     "chars": 29,
+     "lines": 1,
+     "size": 73.3,
+     "vw": 9.5,
+     "font": "Panchang",
+     "weight": 400,
+     "tracking": -0.07,
+     "leading": 0.82,
+     "upper": true,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "right",
+     "widthRatio": 1.14,
+     "top": 948,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "PAHRUMP REALTOR MARCI METZGER",
+     "words": 4,
+     "lines": 1,
+     "size": 73.3,
+     "font": "Panchang"
+    },
+    "headings": [
+     {
+      "text": "PAHRUMP REALTOR MARCI METZGER",
+      "words": 4,
+      "chars": 29,
+      "lines": 1,
+      "size": 73.3,
+      "vw": 9.5,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.07,
+      "leading": 0.82,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 1.14,
+      "top": 948,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "PAHRUMP PROOF",
+      "words": 2,
+      "chars": 13,
+      "lines": 2,
+      "size": 54,
+      "vw": 7,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.055,
+      "leading": 0.9,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.67,
+      "top": 1134,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "CHOOSE YOUR MOVE",
+      "words": 3,
+      "chars": 16,
+      "lines": 2,
+      "size": 45.4,
+      "vw": 5.9,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.05,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.85,
+      "top": 1704,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "BUY",
+      "words": 1,
+      "chars": 3,
+      "lines": 1,
+      "size": 59.9,
+      "vw": 7.8,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.06,
+      "leading": 0.9,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 1872,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "SELL",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 59.9,
+      "vw": 7.8,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.06,
+      "leading": 0.9,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 1988,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "INVEST",
+      "words": 1,
+      "chars": 6,
+      "lines": 1,
+      "size": 59.9,
+      "vw": 7.8,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.06,
+      "leading": 0.9,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 2104,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "COMMERCIAL",
+      "words": 1,
+      "chars": 10,
+      "lines": 1,
+      "size": 59.9,
+      "vw": 7.8,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.06,
+      "leading": 0.9,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 2220,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "PAHRUMP, UP CLOSE",
+      "words": 3,
+      "chars": 17,
+      "lines": 2,
+      "size": 45.4,
+      "vw": 5.9,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.05,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.81,
+      "top": 2660,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "MARCI, LOCALLY",
+      "words": 2,
+      "chars": 14,
+      "lines": 1,
+      "size": 45.4,
+      "vw": 5.9,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.05,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 3785,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "VISIT OR CALL",
+      "words": 3,
+      "chars": 13,
+      "lines": 1,
+      "size": 43,
+      "vw": 5.6,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.055,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 4153,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "MARCI METZGER",
+      "words": 2,
+      "chars": 13,
+      "lines": 1,
+      "size": 43,
+      "vw": 5.6,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.055,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 4298,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "3190 HW-160, SUITE F",
+      "words": 4,
+      "chars": 20,
+      "lines": 1,
+      "size": 43,
+      "vw": 5.6,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.055,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 4443,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "PAHRUMP, NEVADA 89048",
+      "words": 3,
+      "chars": 21,
+      "lines": 2,
+      "size": 43,
+      "vw": 5.6,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.055,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 4588,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "OPEN DAILY, 8 AM–7 PM",
+      "words": 5,
+      "chars": 21,
+      "lines": 1,
+      "size": 43,
+      "vw": 5.6,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.055,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 4733,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "(206) 919-6886",
+      "words": 2,
+      "chars": 14,
+      "lines": 1,
+      "size": 43,
+      "vw": 5.6,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.055,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 4878,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "CALL MARCI",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 43,
+      "vw": 5.6,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.055,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.49,
+      "top": 5099,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "MARCI METZGER",
+      "words": 2,
+      "chars": 13,
+      "lines": 1,
+      "size": 70.7,
+      "vw": 9.2,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.07,
+      "leading": 0.82,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1.1,
+      "top": 5574,
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 17,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 4,
+     "centered": 0,
+     "medianWords": 2,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Switzer",
+       "share": 0.8,
+       "mono": false
+      },
+      {
+       "family": "Panchang",
+       "share": 0.2,
+       "mono": false
+      },
+      {
+       "family": "Arial",
+       "share": 0,
+       "mono": false
+      }
+     ],
+     "familyCount": 3,
+     "sizes": [
+      13,
+      15,
+      16,
+      18,
+      23,
+      24,
+      43,
+      45,
+      54,
+      60,
+      71,
+      73
+     ],
+     "sizeCount": 12,
+     "notLoaded": [],
+     "body": {
+      "font": "Switzer",
+      "size": 17.9,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 17.2
+     },
+     "measureChars": 65,
+     "max": {
+      "size": 73.3,
+      "vw": 9.5,
+      "font": "Panchang",
+      "text": "Marci"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.2,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#0f1f10",
+     "bodyBgHsl": {
+      "h": 124,
+      "s": 0.35,
+      "l": 0.09
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#0f1f10",
+       "top": 0,
+       "hsl": {
+        "h": 124,
+        "s": 0.35,
+        "l": 0.09
+       }
+      },
+      {
+       "color": "#456243",
+       "top": 0,
+       "hsl": {
+        "h": 116,
+        "s": 0.19,
+        "l": 0.32
+       }
+      },
+      {
+       "color": "#000000",
+       "top": 1024,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0
+       }
+      },
+      {
+       "color": "#ffffff",
+       "top": 1594,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#162a17",
+       "top": 2550,
+       "hsl": {
+        "h": 123,
+        "s": 0.31,
+        "l": 0.13
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#0f1f10",
+       "share": 0.4
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.36
+      },
+      {
+       "color": "#263127",
+       "share": 0.16
+      },
+      {
+       "color": "#4f5a50",
+       "share": 0.06
+      },
+      {
+       "color": "#b9c0b9",
+       "share": 0.02
+      }
+     ],
+     "button": {
+      "bg": "#c6f19d",
+      "hsl": {
+       "h": 91,
+       "s": 0.75,
+       "l": 0.78
+      },
+      "fg": "#0f1f10"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 3,
+     "inHero": 2,
+     "radius": 0,
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Call Marci",
+      "Call Marci"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 2,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.58
+     }
+    ],
+    "nav": {
+     "links": 6,
+     "fixed": false,
+     "height": 80,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "panchang",
+     "switzer"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 5688,
+    "margins": {
+     "left": 17,
+     "right": 0
+    },
+    "sections": [
+     {
+      "sel": "section.monument-hero",
+      "tag": "section",
+      "top": 0,
+      "height": 1024,
+      "words": 16,
+      "media": 1,
+      "middle": 0,
+      "heading": null,
+      "left": 17,
+      "right": 0,
+      "textLeft": 17,
+      "textRight": 0,
+      "fullBleed": true,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#proof.proof-section",
+      "tag": "section",
+      "top": 1024,
+      "height": 570,
+      "words": 20,
+      "media": 0,
+      "middle": 130,
+      "heading": {
+       "text": "Pahrump",
+       "size": 54,
+       "tag": "h2"
+      },
+      "left": 17,
+      "right": 35,
+      "textLeft": 17,
+      "textRight": 35,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#move.move-section",
+      "tag": "section",
+      "top": 1594,
+      "height": 956,
+      "words": 23,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Buy",
+       "size": 60,
+       "tag": "span"
+      },
+      "left": 17,
+      "right": 17,
+      "textLeft": 17,
+      "textRight": 41,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#pahrump.showcase-section",
+      "tag": "section",
+      "top": 2550,
+      "height": 1115,
+      "words": 13,
+      "media": 4,
+      "middle": 0,
+      "heading": {
+       "text": "Pahrump, up close",
+       "size": 45,
+       "tag": "h2"
+      },
+      "left": 0,
+      "right": 0,
+      "textLeft": 17,
+      "textRight": 280,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#about.about-section",
+      "tag": "section",
+      "top": 3665,
+      "height": 488,
+      "words": 56,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Marci, locally",
+       "size": 45,
+       "tag": "h2"
+      },
+      "left": 17,
+      "right": 21,
+      "textLeft": 17,
+      "textRight": 21,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#contact.contact-section",
+      "tag": "section",
+      "top": 4153,
+      "height": 1015,
+      "words": 21,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Visit or call",
+       "size": 43,
+       "tag": "h2"
+      },
+      "left": 17,
+      "right": 44,
+      "textLeft": 17,
+      "textRight": 44,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "footer.site-footer",
+      "tag": "footer",
+      "top": 5168,
+      "height": 520,
+      "words": 31,
+      "media": 0,
+      "middle": 141,
+      "heading": {
+       "text": "Marci Metzger",
+       "size": 71,
+       "tag": "p"
+      },
+      "left": 17,
+      "right": 0,
+      "textLeft": 17,
+      "textRight": 0,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "PAHRUMP REALTOR MARCI METZGER",
+      "size": 73,
+      "top": 948,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 17,
+      "n": 7
+     },
+     {
+      "x": 109,
+      "n": 1
+     },
+     {
+      "x": 144,
+      "n": 1
+     },
+     {
+      "x": 171,
+      "n": 1
+     },
+     {
+      "x": 270,
+      "n": 1
+     },
+     {
+      "x": 361,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 12,
+    "bodySize": 18,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 7,
+   "filled": [
+    0.65,
+    1,
+    1,
+    1,
+    0.93,
+    0.83,
+    1
+   ],
+   "motion": {
+    "elements": 26,
+    "css": 7,
+    "transitions": 19,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 5452,
+     "screens": 6.5,
+     "words": 189,
+     "img": 9,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 6,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 5,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2Fimages%2Fmountain-falls.jpg&w=640&q",
+      "image?url=%2Fimages%2Fmountain-falls.jpg&w=384&q",
+      "image?url=%2Fimages%2Fservice-residential.jpg&w=",
+      "image?url=%2Fimages%2Fservice-property.jpg&w=384",
+      "image?url=%2Fimages%2Fservice-expertise.jpg&w=38"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "PAHRUMP REALTOR MARCI METZGER",
+     "words": 4,
+     "chars": 29,
+     "lines": 2,
+     "size": 53.8,
+     "vw": 13.8,
+     "font": "Panchang",
+     "weight": 400,
+     "tracking": -0.07,
+     "leading": 0.79,
+     "upper": true,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.99,
+     "top": 743,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "PAHRUMP REALTOR MARCI METZGER",
+     "words": 4,
+     "lines": 2,
+     "size": 53.8,
+     "font": "Panchang"
+    },
+    "headings": [
+     {
+      "text": "PAHRUMP REALTOR MARCI METZGER",
+      "words": 4,
+      "chars": 29,
+      "lines": 2,
+      "size": 53.8,
+      "vw": 13.8,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.07,
+      "leading": 0.79,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.99,
+      "top": 743,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "PAHRUMP PROOF",
+      "words": 2,
+      "chars": 13,
+      "lines": 2,
+      "size": 39,
+      "vw": 10,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.055,
+      "leading": 0.9,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 954,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "$28.5 million",
+      "words": 2,
+      "chars": 13,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Switzer",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.42,
+      "top": 1122,
+      "tag": "td",
+      "kind": "heading"
+     },
+     {
+      "text": "Nearly 90",
+      "words": 2,
+      "chars": 9,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Switzer",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.42,
+      "top": 1220,
+      "tag": "td",
+      "kind": "heading"
+     },
+     {
+      "text": "Nearly 30 years",
+      "words": 3,
+      "chars": 15,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Switzer",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.42,
+      "top": 1319,
+      "tag": "td",
+      "kind": "heading"
+     },
+     {
+      "text": "CHOOSE YOUR MOVE",
+      "words": 3,
+      "chars": 16,
+      "lines": 2,
+      "size": 33.3,
+      "vw": 8.5,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.05,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 1572,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "BUY",
+      "words": 1,
+      "chars": 3,
+      "lines": 1,
+      "size": 34.3,
+      "vw": 8.8,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.06,
+      "leading": 0.9,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.86,
+      "top": 1693,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "SELL",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 34.3,
+      "vw": 8.8,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.06,
+      "leading": 0.9,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 1784,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "INVEST",
+      "words": 1,
+      "chars": 6,
+      "lines": 1,
+      "size": 34.3,
+      "vw": 8.8,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.06,
+      "leading": 0.9,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 1875,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "COMMERCIAL",
+      "words": 1,
+      "chars": 10,
+      "lines": 1,
+      "size": 34.3,
+      "vw": 8.8,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.06,
+      "leading": 0.9,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 1966,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "PAHRUMP, UP CLOSE",
+      "words": 3,
+      "chars": 17,
+      "lines": 2,
+      "size": 33.3,
+      "vw": 8.5,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.05,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 2451,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "MARCI, LOCALLY",
+      "words": 2,
+      "chars": 14,
+      "lines": 2,
+      "size": 33.3,
+      "vw": 8.5,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.05,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 3590,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Marci Metzger has guided Pahrump buyers and sellers for nearly three decades.",
+      "words": 12,
+      "chars": 77,
+      "lines": 4,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Switzer",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.28,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 3706,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "VISIT OR CALL",
+      "words": 3,
+      "chars": 13,
+      "lines": 1,
+      "size": 28.9,
+      "vw": 7.4,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.055,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 4182,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "MARCI METZGER",
+      "words": 2,
+      "chars": 13,
+      "lines": 1,
+      "size": 28.9,
+      "vw": 7.4,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.055,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 4266,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "3190 HW-160, SUITE F",
+      "words": 4,
+      "chars": 20,
+      "lines": 2,
+      "size": 28.9,
+      "vw": 7.4,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.055,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 4350,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "PAHRUMP, NEVADA 89048",
+      "words": 3,
+      "chars": 21,
+      "lines": 2,
+      "size": 28.9,
+      "vw": 7.4,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.055,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 4441,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "OPEN DAILY, 8 AM–7 PM",
+      "words": 5,
+      "chars": 21,
+      "lines": 2,
+      "size": 28.9,
+      "vw": 7.4,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.055,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 4532,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "(206) 919-6886",
+      "words": 2,
+      "chars": 14,
+      "lines": 1,
+      "size": 28.9,
+      "vw": 7.4,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.055,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 4623,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "CALL MARCI",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 28.9,
+      "vw": 7.4,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.055,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.65,
+      "top": 4745,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "MARCI METZGER",
+      "words": 2,
+      "chars": 13,
+      "lines": 2,
+      "size": 55.4,
+      "vw": 14.2,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.07,
+      "leading": 0.8,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1.02,
+      "top": 5308,
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 21,
+     "maxLines": 4,
+     "over2Lines": 0,
+     "statements": 5,
+     "centered": 0,
+     "medianWords": 2,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Switzer",
+       "share": 0.79,
+       "mono": false
+      },
+      {
+       "family": "Panchang",
+       "share": 0.2,
+       "mono": false
+      },
+      {
+       "family": "Arial",
+       "share": 0,
+       "mono": false
+      }
+     ],
+     "familyCount": 3,
+     "sizes": [
+      13,
+      15,
+      16,
+      17,
+      20,
+      22,
+      29,
+      33,
+      34,
+      39,
+      54,
+      55
+     ],
+     "sizeCount": 12,
+     "notLoaded": [],
+     "body": {
+      "font": "Switzer",
+      "size": 17,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 13.5
+     },
+     "measureChars": 42,
+     "max": {
+      "size": 55.4,
+      "vw": 14.2,
+      "font": "Panchang",
+      "text": "Marci Metzger"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.21,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#0f1f10",
+     "bodyBgHsl": {
+      "h": 124,
+      "s": 0.35,
+      "l": 0.09
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#0f1f10",
+       "top": 0,
+       "hsl": {
+        "h": 124,
+        "s": 0.35,
+        "l": 0.09
+       }
+      },
+      {
+       "color": "#456243",
+       "top": 0,
+       "hsl": {
+        "h": 116,
+        "s": 0.19,
+        "l": 0.32
+       }
+      },
+      {
+       "color": "#000000",
+       "top": 844,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0
+       }
+      },
+      {
+       "color": "#ffffff",
+       "top": 1462,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#162a17",
+       "top": 2341,
+       "hsl": {
+        "h": 123,
+        "s": 0.31,
+        "l": 0.13
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#0f1f10",
+       "share": 0.41
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.35
+      },
+      {
+       "color": "#263127",
+       "share": 0.17
+      },
+      {
+       "color": "#4f5a50",
+       "share": 0.06
+      },
+      {
+       "color": "#b9c0b9",
+       "share": 0.02
+      }
+     ],
+     "button": {
+      "bg": "#c6f19d",
+      "hsl": {
+       "h": 91,
+       "s": 0.75,
+       "l": 0.78
+      },
+      "fg": "#0f1f10"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 3,
+     "inHero": 2,
+     "radius": 0,
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Call Marci",
+      "Call Marci"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 3,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.5
+     }
+    ],
+    "nav": {
+     "links": 2,
+     "fixed": false,
+     "height": 80,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "panchang",
+     "switzer"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 5452,
+    "margins": {
+     "left": 0,
+     "right": 0
+    },
+    "sections": [
+     {
+      "sel": "section.monument-hero",
+      "tag": "section",
+      "top": 0,
+      "height": 844,
+      "words": 18,
+      "media": 1,
+      "middle": 0,
+      "heading": null,
+      "left": 16,
+      "right": 0,
+      "textLeft": 16,
+      "textRight": 0,
+      "fullBleed": true,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#proof.proof-section",
+      "tag": "section",
+      "top": 844,
+      "height": 618,
+      "words": 20,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Pahrump",
+       "size": 39,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 66,
+      "textLeft": 16,
+      "textRight": 66,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#move.move-section",
+      "tag": "section",
+      "top": 1462,
+      "height": 880,
+      "words": 23,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Buy",
+       "size": 34,
+       "tag": "span"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 32,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#pahrump.showcase-section",
+      "tag": "section",
+      "top": 2341,
+      "height": 1129,
+      "words": 13,
+      "media": 4,
+      "middle": 0,
+      "heading": {
+       "text": "Pahrump, up close",
+       "size": 33,
+       "tag": "h2"
+      },
+      "left": 0,
+      "right": 0,
+      "textLeft": 16,
+      "textRight": 92,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#about.about-section",
+      "tag": "section",
+      "top": 3470,
+      "height": 712,
+      "words": 56,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Marci, locally",
+       "size": 33,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 16,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#contact.contact-section",
+      "tag": "section",
+      "top": 4182,
+      "height": 608,
+      "words": 21,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Visit or call",
+       "size": 29,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 22,
+      "textLeft": 16,
+      "textRight": 22,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "footer.site-footer",
+      "tag": "footer",
+      "top": 4791,
+      "height": 661,
+      "words": 31,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Marci Metzger",
+       "size": 55,
+       "tag": "p"
+      },
+      "left": 16,
+      "right": 0,
+      "textLeft": 16,
+      "textRight": 0,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "PAHRUMP REALTOR MARCI METZGER",
+      "size": 54,
+      "top": 743,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 16,
+      "n": 10
+     },
+     {
+      "x": 59,
+      "n": 1
+     },
+     {
+      "x": 115,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 12,
+    "bodySize": 17,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "WARN",
+   "id": "size-count",
+   "width": 1440,
+   "message": "14 different font sizes (13, 14, 15, 16, 19, 26, 36, 44, 64, 81, 101, 130, 133, 138).",
+   "fix": "A page needs about five: display, heading, lead, body, small.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "WARN",
+   "id": "off-centre",
+   "width": 1440,
+   "message": "The margins differ: 32px on the left, 0px on the right, at 1440px.",
+   "fix": "Put the navigation and the content on one pair of margins; check for padding on one side only, a scrollbar gutter, or a header on another inset than the page.",
+   "alsoAt": [
+    768
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "long-pin",
+   "width": 1440,
+   "message": "The same large text stays on screen for 3 screens in a row: \"MARCI METZGER\"",
+   "fix": "A pinned element earns two screens, and something must change at each. Shorten the run or give every screen its own content."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "D:\\WEBDEV FILE\\Skill Test\\marcimetzger-revamp\\.taste-skill\\content-redesign-before\\desktop-fold.jpg",
+   "pages": [
+    "D:\\WEBDEV FILE\\Skill Test\\marcimetzger-revamp\\.taste-skill\\content-redesign-before\\desktop-page-01.jpg",
+    "D:\\WEBDEV FILE\\Skill Test\\marcimetzger-revamp\\.taste-skill\\content-redesign-before\\desktop-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "D:\\WEBDEV FILE\\Skill Test\\marcimetzger-revamp\\.taste-skill\\content-redesign-before\\tablet-fold.jpg",
+   "pages": [
+    "D:\\WEBDEV FILE\\Skill Test\\marcimetzger-revamp\\.taste-skill\\content-redesign-before\\tablet-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "D:\\WEBDEV FILE\\Skill Test\\marcimetzger-revamp\\.taste-skill\\content-redesign-before\\mobile-fold.jpg",
+   "pages": [
+    "D:\\WEBDEV FILE\\Skill Test\\marcimetzger-revamp\\.taste-skill\\content-redesign-before\\mobile-page-01.jpg"
+   ],
+   "film": []
+  }
+ ]
+}

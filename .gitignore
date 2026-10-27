@@ -1,0 +1,20 @@
+# dependencies
+/node_modules
+
+# Next.js output
+/.next
+/out
+
+# local caches and temporary files
+/.npm-cache
+/.tmp
+
+# logs
+*.log
+
+# environment files
+.env*
+
+# operating system files
+.DS_Store
+Thumbs.db
