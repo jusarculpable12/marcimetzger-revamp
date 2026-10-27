@@ -28,7 +28,7 @@ export default function SiteHeader() {
         <nav className="desktop-nav" aria-label="Primary navigation">
           {links.map(([label, href]) => <a key={href} href={href} className="nav-link">{label}</a>)}
         </nav>
-        <a href="tel:+12069196886" className="header-call">Call Marci</a>
+        <a href="tel:+12069196886" className="header-call">Call now</a>
         <button className="menu-button" type="button" aria-expanded={open} aria-controls="mobile-menu" aria-label={open ? "Close menu" : "Open menu"} onClick={() => setOpen((value) => !value)}>
           <span aria-hidden="true">{open ? "Close" : "Menu"}</span>
         </button>
@@ -36,7 +36,7 @@ export default function SiteHeader() {
       {open && (
         <nav id="mobile-menu" className="mobile-menu" aria-label="Mobile navigation">
           {links.map(([label, href]) => <a key={href} href={href} onClick={() => setOpen(false)}>{label}</a>)}
-          <a href="tel:+12069196886" className="mobile-call">Call (206) 919-6886</a>
+          <a href="tel:+12069196886" className="mobile-call">Call now</a>
         </nav>
       )}
     </header>
