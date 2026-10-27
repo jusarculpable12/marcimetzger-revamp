@@ -1,0 +1,2832 @@
+{
+ "url": "http://localhost:3000",
+ "at": "2026-10-27T14:35:30.211Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 12,
+   "filled": [
+    0.88,
+    0.76,
+    0.76,
+    0.48,
+    0.51,
+    0.51,
+    0.49,
+    0.8,
+    0.58,
+    0.58,
+    0.21,
+    0.55
+   ],
+   "motion": {
+    "elements": 19,
+    "css": 2,
+    "transitions": 17,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 11242,
+     "screens": 12.5,
+     "words": 499,
+     "img": 16,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 7,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 9,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2Fimages%2Fmountain-falls.jpg&w=1920&",
+      "image?url=%2Fimages%2Fmarci-metzger.jpg&w=828&q=",
+      "image?url=%2Fimages%2Fservice-property.jpg&w=750",
+      "image?url=%2Fimages%2Fmountain-falls.jpg&w=640&q",
+      "image?url=%2Fimages%2Fpahrump-landscape.jpg&w=64",
+      "image?url=%2Fimages%2Fservice-residential.jpg&w=",
+      "image?url=%2Fimages%2Fmarci-metzger.jpg&w=1080&q",
+      "image?url=%2Fimages%2Fpahrump-landscape.jpg&w=19"
+     ],
+     "blendText": 0,
+     "sideScrollers": 1,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Your Pahrump Realtor",
+     "words": 3,
+     "chars": 20,
+     "lines": 3,
+     "size": 104,
+     "vw": 7.2,
+     "font": "Bodoni Moda",
+     "weight": 500,
+     "tracking": -0.02,
+     "leading": 0.95,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.41,
+     "top": 351,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Your Pahrump Realtor",
+     "words": 3,
+     "lines": 3,
+     "size": 104,
+     "font": "Bodoni Moda"
+    },
+    "headings": [
+     {
+      "text": "Your Pahrump Realtor",
+      "words": 3,
+      "chars": 20,
+      "lines": 3,
+      "size": 104,
+      "vw": 7.2,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.41,
+      "top": 351,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Results with roots",
+      "words": 3,
+      "chars": 18,
+      "lines": 1,
+      "size": 67.2,
+      "vw": 4.7,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.43,
+      "top": 1084,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Find your dream home",
+      "words": 4,
+      "chars": 20,
+      "lines": 2,
+      "size": 67.2,
+      "vw": 4.7,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.41,
+      "top": 2070,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Search listings",
+      "words": 2,
+      "chars": 15,
+      "lines": 1,
+      "size": 43.2,
+      "vw": 3,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "right",
+      "widthRatio": 0.39,
+      "top": 2126,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Real estate done right",
+      "words": 4,
+      "chars": 22,
+      "lines": 1,
+      "size": 67.2,
+      "vw": 4.7,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.46,
+      "top": 3157,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Sell with a plan",
+      "words": 4,
+      "chars": 16,
+      "lines": 1,
+      "size": 67.2,
+      "vw": 4.7,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.45,
+      "top": 3651,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Buy with a guide",
+      "words": 4,
+      "chars": 16,
+      "lines": 1,
+      "size": 67.2,
+      "vw": 4.7,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.45,
+      "top": 4551,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Invest with context",
+      "words": 3,
+      "chars": 19,
+      "lines": 1,
+      "size": 67.2,
+      "vw": 4.7,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.45,
+      "top": 5451,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Rely on expertise",
+      "words": 3,
+      "chars": 17,
+      "lines": 2,
+      "size": 67.2,
+      "vw": 4.7,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.31,
+      "top": 6141,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Life around Pahrump",
+      "words": 3,
+      "chars": 19,
+      "lines": 1,
+      "size": 67.2,
+      "vw": 4.7,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.46,
+      "top": 6648,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Meet Marci",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 67.2,
+      "vw": 4.7,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.46,
+      "top": 7815,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "“I love the small-town feeling our community offers. Working or retired, fast-paced or ready to relax, there’s a place for you here.”",
+      "words": 22,
+      "chars": 133,
+      "lines": 7,
+      "size": 38.9,
+      "vw": 2.7,
+      "font": "Bodoni Moda",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.31,
+      "top": 8005,
+      "tag": "blockquote",
+      "kind": "statement"
+     },
+     {
+      "text": "Marci J. Metzger",
+      "words": 3,
+      "chars": 16,
+      "lines": 1,
+      "size": 32,
+      "vw": 2.2,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.3,
+      "top": 8773,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Call or visit",
+      "words": 3,
+      "chars": 13,
+      "lines": 1,
+      "size": 35.2,
+      "vw": 2.4,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.22,
+      "top": 9421,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Drop Marci a line",
+      "words": 4,
+      "chars": 17,
+      "lines": 1,
+      "size": 35.2,
+      "vw": 2.4,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.34,
+      "top": 9421,
+      "tag": "h3",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 15,
+     "maxLines": 7,
+     "over2Lines": 1,
+     "statements": 1,
+     "centered": 2,
+     "medianWords": 3,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Jost",
+       "share": 0.86,
+       "mono": false
+      },
+      {
+       "family": "Bodoni Moda",
+       "share": 0.14,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      14,
+      15,
+      19,
+      26,
+      32,
+      35,
+      39,
+      43,
+      67,
+      104
+     ],
+     "sizeCount": 10,
+     "notLoaded": [],
+     "body": {
+      "font": "Jost",
+      "size": 19,
+      "leading": 1.6,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 8.7
+     },
+     "measureChars": 46,
+     "max": {
+      "size": 104,
+      "vw": 7.2,
+      "font": "Bodoni Moda",
+      "text": "Your Pahrump Realtor"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.1,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ecebe7",
+     "bodyBgHsl": {
+      "h": 48,
+      "s": 0.12,
+      "l": 0.92
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#38450f",
+       "top": 900,
+       "hsl": {
+        "h": 74,
+        "s": 0.64,
+        "l": 0.16
+       }
+      },
+      {
+       "color": "#ecebe7",
+       "top": 1030,
+       "hsl": {
+        "h": 48,
+        "s": 0.12,
+        "l": 0.92
+       }
+      },
+      {
+       "color": "#e1dfd9",
+       "top": 1880,
+       "hsl": {
+        "h": 45,
+        "s": 0.12,
+        "l": 0.87
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#38450f",
+       "share": 0.72
+      },
+      {
+       "color": "#ecebe7",
+       "share": 0.17
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.06
+      },
+      {
+       "color": "#5d683a",
+       "share": 0.02
+      },
+      {
+       "color": "#cdd2bd",
+       "share": 0.02
+      }
+     ],
+     "button": {
+      "bg": "#38450f",
+      "hsl": {
+       "h": 74,
+       "s": 0.64,
+       "l": 0.16
+      },
+      "fg": "#ecebe7"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 5,
+     "inHero": 2,
+     "radius": 0,
+     "height": 52,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Call Marci",
+      "Call Marci"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 10,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 1
+     }
+    ],
+    "nav": {
+     "links": 6,
+     "fixed": false,
+     "height": 88,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "bodoni moda",
+     "jost",
+     "jost fallback"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 11242,
+    "margins": {
+     "left": 32,
+     "right": 41
+    },
+    "sections": [
+     {
+      "sel": "section.place-hero",
+      "tag": "section",
+      "top": 0,
+      "height": 900,
+      "words": 26,
+      "media": 0,
+      "middle": 716,
+      "heading": {
+       "text": "Your Pahrump Realtor",
+       "size": 104,
+       "tag": "h1"
+      },
+      "left": 32,
+      "right": 32,
+      "textLeft": 32,
+      "textRight": 32,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#proof.proof-section",
+      "tag": "section",
+      "top": 900,
+      "height": 980,
+      "words": 46,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Results with roots",
+       "size": 67,
+       "tag": "h2"
+      },
+      "left": 414,
+      "right": 414,
+      "textLeft": 431,
+      "textRight": 432,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#listings.listing-section",
+      "tag": "section",
+      "top": 1880,
+      "height": 1059,
+      "words": 39,
+      "media": 0,
+      "middle": 221,
+      "heading": {
+       "text": "Find your dream home",
+       "size": 67,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 88,
+      "textLeft": 32,
+      "textRight": 227,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "div.service-story",
+      "tag": "div",
+      "top": 3321,
+      "height": 2700,
+      "words": 104,
+      "media": 1,
+      "middle": 72,
+      "heading": {
+       "text": "Sell with a plan",
+       "size": 67,
+       "tag": "h3"
+      },
+      "left": 32,
+      "right": 118,
+      "textLeft": 756,
+      "textRight": 118,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": true
+     },
+     {
+      "sel": "div.expertise-note.is-in",
+      "tag": "div",
+      "top": 6021,
+      "height": 268,
+      "words": 25,
+      "media": 0,
+      "middle": 207,
+      "heading": {
+       "text": "Rely on expertise",
+       "size": 67,
+       "tag": "h3"
+      },
+      "left": 32,
+      "right": 84,
+      "textLeft": 32,
+      "textRight": 84,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#gallery.gallery-section",
+      "tag": "section",
+      "top": 6461,
+      "height": 1167,
+      "words": 23,
+      "media": 4,
+      "middle": 255,
+      "heading": {
+       "text": "Life around Pahrump",
+       "size": 67,
+       "tag": "h2"
+      },
+      "left": 0,
+      "right": 0,
+      "textLeft": 32,
+      "textRight": 73,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#about.about-section",
+      "tag": "section",
+      "top": 7628,
+      "height": 1679,
+      "words": 104,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Meet Marci",
+       "size": 67,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 41,
+      "textLeft": 32,
+      "textRight": 41,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#contact.contact-section",
+      "tag": "section",
+      "top": 9307,
+      "height": 1035,
+      "words": 61,
+      "media": 1,
+      "middle": 505,
+      "heading": {
+       "text": "Call or visit",
+       "size": 35,
+       "tag": "h2"
+      },
+      "left": 66,
+      "right": 66,
+      "textLeft": 66,
+      "textRight": 251,
+      "fullBleed": true,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "footer.site-footer",
+      "tag": "footer",
+      "top": 10342,
+      "height": 900,
+      "words": 41,
+      "media": 1,
+      "middle": 0,
+      "heading": null,
+      "left": 32,
+      "right": 32,
+      "textLeft": 32,
+      "textRight": 198,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [
+     {
+      "top": 1740,
+      "height": 308
+     },
+     {
+      "top": 2696,
+      "height": 440
+     },
+     {
+      "top": 6288,
+      "height": 340
+     },
+     {
+      "top": 7444,
+      "height": 348
+     }
+    ],
+    "h1s": [
+     {
+      "text": "Your Pahrump Realtor",
+      "size": 104,
+      "top": 351,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 32,
+      "n": 8
+     },
+     {
+      "x": 756,
+      "n": 6
+     },
+     {
+      "x": 66,
+      "n": 3
+     },
+     {
+      "x": 740,
+      "n": 3
+     },
+     {
+      "x": 963,
+      "n": 3
+     },
+     {
+      "x": 517,
+      "n": 1
+     },
+     {
+      "x": 882,
+      "n": 1
+     },
+     {
+      "x": 989,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 26,
+    "bodySize": 19,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 12,
+   "filled": [
+    0.69,
+    0.63,
+    0.63,
+    0.57,
+    0.6,
+    0.55,
+    0.63,
+    0.68,
+    0.89,
+    0.16,
+    0.37,
+    1
+   ],
+   "motion": {
+    "elements": 19,
+    "css": 2,
+    "transitions": 17,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 12289,
+     "screens": 12,
+     "words": 494,
+     "img": 16,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 7,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 10,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2Fimages%2Fmountain-falls.jpg&w=828&q",
+      "image?url=%2Fimages%2Fmarci-metzger.jpg&w=828&q=",
+      "image?url=%2Fimages%2Fservice-property.jpg&w=108",
+      "image?url=%2Fimages%2Fservice-residential.jpg&w=",
+      "image?url=%2Fimages%2Fservice-expertise.jpg&w=10",
+      "image?url=%2Fimages%2Fmountain-falls.jpg&w=828&q",
+      "image?url=%2Fimages%2Fpahrump-landscape.jpg&w=38",
+      "image?url=%2Fimages%2Fmarci-metzger.jpg&w=828&q="
+     ],
+     "blendText": 0,
+     "sideScrollers": 1,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Your Pahrump Realtor",
+     "words": 3,
+     "chars": 20,
+     "lines": 3,
+     "size": 80,
+     "vw": 10.4,
+     "font": "Bodoni Moda",
+     "weight": 500,
+     "tracking": -0.02,
+     "leading": 0.95,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.59,
+     "top": 583,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Your Pahrump Realtor",
+     "words": 3,
+     "lines": 3,
+     "size": 80,
+     "font": "Bodoni Moda"
+    },
+    "headings": [
+     {
+      "text": "Your Pahrump Realtor",
+      "words": 3,
+      "chars": 20,
+      "lines": 3,
+      "size": 80,
+      "vw": 10.4,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.59,
+      "top": 583,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Results with roots",
+      "words": 3,
+      "chars": 18,
+      "lines": 1,
+      "size": 47,
+      "vw": 6.1,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.85,
+      "top": 1152,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Find your dream home",
+      "words": 4,
+      "chars": 20,
+      "lines": 1,
+      "size": 47,
+      "vw": 6.1,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 2034,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Search listings",
+      "words": 2,
+      "chars": 15,
+      "lines": 1,
+      "size": 32,
+      "vw": 4.2,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 2315,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Real estate done right",
+      "words": 4,
+      "chars": 22,
+      "lines": 1,
+      "size": 47,
+      "vw": 6.1,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 3425,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Sell with a plan",
+      "words": 4,
+      "chars": 16,
+      "lines": 1,
+      "size": 47,
+      "vw": 6.1,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 4271,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Buy with a guide",
+      "words": 4,
+      "chars": 16,
+      "lines": 1,
+      "size": 47,
+      "vw": 6.1,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 5106,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Invest with context",
+      "words": 3,
+      "chars": 19,
+      "lines": 1,
+      "size": 47,
+      "vw": 6.1,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 5941,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Rely on expertise",
+      "words": 3,
+      "chars": 17,
+      "lines": 1,
+      "size": 47,
+      "vw": 6.1,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 6304,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Life around Pahrump",
+      "words": 3,
+      "chars": 19,
+      "lines": 1,
+      "size": 47,
+      "vw": 6.1,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 6702,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Meet Marci",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 47,
+      "vw": 6.1,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 7887,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Marci J. Metzger",
+      "words": 3,
+      "chars": 16,
+      "lines": 1,
+      "size": 32,
+      "vw": 4.2,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 9256,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Call or visit",
+      "words": 3,
+      "chars": 13,
+      "lines": 1,
+      "size": 35.2,
+      "vw": 4.6,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.89,
+      "top": 10110,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Drop Marci a line",
+      "words": 4,
+      "chars": 17,
+      "lines": 1,
+      "size": 35.2,
+      "vw": 4.6,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.89,
+      "top": 10688,
+      "tag": "h3",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 14,
+     "maxLines": 3,
+     "over2Lines": 1,
+     "statements": 0,
+     "centered": 2,
+     "medianWords": 3,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Jost",
+       "share": 0.86,
+       "mono": false
+      },
+      {
+       "family": "Bodoni Moda",
+       "share": 0.14,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      13,
+      15,
+      18,
+      23,
+      26,
+      32,
+      35,
+      47,
+      80
+     ],
+     "sizeCount": 9,
+     "notLoaded": [],
+     "body": {
+      "font": "Jost",
+      "size": 18,
+      "leading": 1.42,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": null
+     },
+     "measureChars": 80,
+     "max": {
+      "size": 80,
+      "vw": 10.4,
+      "font": "Bodoni Moda",
+      "text": "Your Pahrump Realtor"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.11,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ecebe7",
+     "bodyBgHsl": {
+      "h": 48,
+      "s": 0.12,
+      "l": 0.92
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#38450f",
+       "top": 1024,
+       "hsl": {
+        "h": 74,
+        "s": 0.64,
+        "l": 0.16
+       }
+      },
+      {
+       "color": "#ecebe7",
+       "top": 1124,
+       "hsl": {
+        "h": 48,
+        "s": 0.12,
+        "l": 0.92
+       }
+      },
+      {
+       "color": "#e1dfd9",
+       "top": 1924,
+       "hsl": {
+        "h": 45,
+        "s": 0.12,
+        "l": 0.87
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#38450f",
+       "share": 0.74
+      },
+      {
+       "color": "#ecebe7",
+       "share": 0.17
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.05
+      },
+      {
+       "color": "#5d683a",
+       "share": 0.02
+      },
+      {
+       "color": "#cdd2bd",
+       "share": 0.02
+      }
+     ],
+     "button": {
+      "bg": "#ecebe7",
+      "hsl": {
+       "h": 48,
+       "s": 0.12,
+       "l": 0.92
+      },
+      "fg": "#38450f"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 6,
+     "inHero": 3,
+     "radius": 0,
+     "height": 52,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Call Marci",
+      "Menu",
+      "Call Marci"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 12,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 1
+     }
+    ],
+    "nav": {
+     "links": 2,
+     "fixed": false,
+     "height": 80,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "bodoni moda",
+     "jost",
+     "jost fallback"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 12289,
+    "margins": {
+     "left": 17,
+     "right": 17
+    },
+    "sections": [
+     {
+      "sel": "section.place-hero",
+      "tag": "section",
+      "top": 0,
+      "height": 1024,
+      "words": 24,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 17,
+      "right": 404,
+      "textLeft": 17,
+      "textRight": 404,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#proof.proof-section",
+      "tag": "section",
+      "top": 1024,
+      "height": 900,
+      "words": 46,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Results with roots",
+       "size": 47,
+       "tag": "h2"
+      },
+      "left": 59,
+      "right": 59,
+      "textLeft": 123,
+      "textRight": 123,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#listings.listing-section",
+      "tag": "section",
+      "top": 1924,
+      "height": 1391,
+      "words": 39,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Find your dream home",
+       "size": 47,
+       "tag": "h2"
+      },
+      "left": 17,
+      "right": 45,
+      "textLeft": 17,
+      "textRight": 129,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "div.services-heading.is-in",
+      "tag": "div",
+      "top": 3425,
+      "height": 194,
+      "words": 11,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 17,
+      "right": 194,
+      "textLeft": 17,
+      "textRight": 194,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.service-story",
+      "tag": "div",
+      "top": 3720,
+      "height": 2504,
+      "words": 104,
+      "media": 3,
+      "middle": 0,
+      "heading": {
+       "text": "Sell with a plan",
+       "size": 47,
+       "tag": "h3"
+      },
+      "left": 17,
+      "right": 17,
+      "textLeft": 17,
+      "textRight": 237,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.expertise-note.is-in",
+      "tag": "div",
+      "top": 6224,
+      "height": 258,
+      "words": 25,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Rely on expertise",
+       "size": 47,
+       "tag": "h3"
+      },
+      "left": 17,
+      "right": 78,
+      "textLeft": 17,
+      "textRight": 78,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#gallery.gallery-section",
+      "tag": "section",
+      "top": 6592,
+      "height": 1185,
+      "words": 23,
+      "media": 4,
+      "middle": 1175,
+      "heading": {
+       "text": "Life around Pahrump",
+       "size": 47,
+       "tag": "h2"
+      },
+      "left": 0,
+      "right": 0,
+      "textLeft": 17,
+      "textRight": 147,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "div.about-heading.is-in",
+      "tag": "div",
+      "top": 7887,
+      "height": 184,
+      "words": 12,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 17,
+      "right": 134,
+      "textLeft": 17,
+      "textRight": 134,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.about-grid",
+      "tag": "div",
+      "top": 8151,
+      "height": 1353,
+      "words": 90,
+      "media": 1,
+      "middle": 0,
+      "heading": null,
+      "left": 17,
+      "right": 17,
+      "textLeft": 25,
+      "textRight": 28,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "img",
+      "tag": "img",
+      "top": 9614,
+      "height": 1651,
+      "words": 0,
+      "media": 1,
+      "middle": 0,
+      "heading": null,
+      "left": null,
+      "right": null,
+      "textLeft": null,
+      "textRight": null,
+      "fullBleed": true,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.contact-layout",
+      "tag": "div",
+      "top": 9674,
+      "height": 1531,
+      "words": 61,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Call or visit",
+       "size": 35,
+       "tag": "h2"
+      },
+      "left": 42,
+      "right": 42,
+      "textLeft": 42,
+      "textRight": 42,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.site-footer",
+      "tag": "footer",
+      "top": 11265,
+      "height": 1024,
+      "words": 41,
+      "media": 1,
+      "middle": 0,
+      "heading": null,
+      "left": 17,
+      "right": 17,
+      "textLeft": 17,
+      "textRight": 214,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Your Pahrump Realtor",
+      "size": 80,
+      "top": 583,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 17,
+      "n": 21
+     },
+     {
+      "x": 42,
+      "n": 5
+     }
+    ],
+    "leftBlocks": 26,
+    "bodySize": 18,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 12,
+   "filled": [
+    0.77,
+    0.56,
+    0.71,
+    0.51,
+    0.5,
+    0.48,
+    0.57,
+    0.93,
+    0.62,
+    0.83,
+    0.21,
+    0.5
+   ],
+   "motion": {
+    "elements": 18,
+    "css": 2,
+    "transitions": 16,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 11191,
+     "screens": 13.3,
+     "words": 494,
+     "img": 16,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 7,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 10,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2Fimages%2Fmountain-falls.jpg&w=640&q",
+      "image?url=%2Fimages%2Fmarci-metzger.jpg&w=828&q=",
+      "image?url=%2Fimages%2Fservice-property.jpg&w=108",
+      "image?url=%2Fimages%2Fservice-residential.jpg&w=",
+      "image?url=%2Fimages%2Fservice-expertise.jpg&w=10",
+      "image?url=%2Fimages%2Fmountain-falls.jpg&w=384&q",
+      "image?url=%2Fimages%2Fpahrump-landscape.jpg&w=38",
+      "image?url=%2Fimages%2Fmarci-metzger.jpg&w=640&q="
+     ],
+     "blendText": 0,
+     "sideScrollers": 1,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Your Pahrump Realtor",
+     "words": 3,
+     "chars": 20,
+     "lines": 3,
+     "size": 50.7,
+     "vw": 13,
+     "font": "Bodoni Moda",
+     "weight": 500,
+     "tracking": -0.02,
+     "leading": 0.95,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.74,
+     "top": 487,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Your Pahrump Realtor",
+     "words": 3,
+     "lines": 3,
+     "size": 50.7,
+     "font": "Bodoni Moda"
+    },
+    "headings": [
+     {
+      "text": "Your Pahrump Realtor",
+      "words": 3,
+      "chars": 20,
+      "lines": 3,
+      "size": 50.7,
+      "vw": 13,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.74,
+      "top": 487,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Results with roots",
+      "words": 3,
+      "chars": 18,
+      "lines": 2,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.78,
+      "top": 972,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Find your dream home",
+      "words": 4,
+      "chars": 20,
+      "lines": 2,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 1854,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Search listings",
+      "words": 2,
+      "chars": 15,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 2189,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Real estate done right",
+      "words": 4,
+      "chars": 22,
+      "lines": 2,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 3295,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Sell with a plan",
+      "words": 4,
+      "chars": 16,
+      "lines": 1,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 3968,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Buy with a guide",
+      "words": 4,
+      "chars": 16,
+      "lines": 1,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 4622,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Invest with context",
+      "words": 3,
+      "chars": 19,
+      "lines": 1,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 5276,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Rely on expertise",
+      "words": 3,
+      "chars": 17,
+      "lines": 1,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 5654,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Life around Pahrump",
+      "words": 3,
+      "chars": 19,
+      "lines": 2,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 6102,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Meet Marci",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 7252,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "“I love the small-town feeling our community offers. Working or retired, fast-paced or ready to relax, there’s a place for you here.”",
+      "words": 22,
+      "chars": 133,
+      "lines": 6,
+      "size": 25.6,
+      "vw": 6.6,
+      "font": "Bodoni Moda",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 8000,
+      "tag": "blockquote",
+      "kind": "statement"
+     },
+     {
+      "text": "Marci J. Metzger",
+      "words": 3,
+      "chars": 16,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 8292,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Call or visit",
+      "words": 3,
+      "chars": 13,
+      "lines": 1,
+      "size": 35.2,
+      "vw": 9,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.78,
+      "top": 9175,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Drop Marci a line",
+      "words": 4,
+      "chars": 17,
+      "lines": 1,
+      "size": 35.2,
+      "vw": 9,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.78,
+      "top": 9774,
+      "tag": "h3",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 15,
+     "maxLines": 6,
+     "over2Lines": 1,
+     "statements": 1,
+     "centered": 2,
+     "medianWords": 3,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Jost",
+       "share": 0.86,
+       "mono": false
+      },
+      {
+       "family": "Bodoni Moda",
+       "share": 0.14,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      13,
+      14,
+      17,
+      18,
+      20,
+      26,
+      32,
+      35,
+      40,
+      51
+     ],
+     "sizeCount": 10,
+     "notLoaded": [],
+     "body": {
+      "font": "Jost",
+      "size": 17,
+      "leading": 1.6,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 8.7
+     },
+     "measureChars": 40,
+     "max": {
+      "size": 50.7,
+      "vw": 13,
+      "font": "Bodoni Moda",
+      "text": "Your Pahrump Realtor"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.11,
+     "smallText": 0
+    },
+    "eyebrows": [
+     {
+      "text": "Get directions",
+      "above": "Drop Marci a line",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 17,
+      "top": 9652
+     }
+    ],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ecebe7",
+     "bodyBgHsl": {
+      "h": 48,
+      "s": 0.12,
+      "l": 0.92
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#38450f",
+       "top": 844,
+       "hsl": {
+        "h": 74,
+        "s": 0.64,
+        "l": 0.16
+       }
+      },
+      {
+       "color": "#ecebe7",
+       "top": 944,
+       "hsl": {
+        "h": 48,
+        "s": 0.12,
+        "l": 0.92
+       }
+      },
+      {
+       "color": "#e1dfd9",
+       "top": 1744,
+       "hsl": {
+        "h": 45,
+        "s": 0.12,
+        "l": 0.87
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#38450f",
+       "share": 0.74
+      },
+      {
+       "color": "#ecebe7",
+       "share": 0.17
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.05
+      },
+      {
+       "color": "#5d683a",
+       "share": 0.02
+      },
+      {
+       "color": "#cdd2bd",
+       "share": 0.02
+      }
+     ],
+     "button": {
+      "bg": "#ecebe7",
+      "hsl": {
+       "h": 48,
+       "s": 0.12,
+       "l": 0.92
+      },
+      "fg": "#38450f"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 6,
+     "inHero": 3,
+     "radius": 0,
+     "height": 52,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Call Marci",
+      "Menu",
+      "Call Marci"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 11,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 1
+     }
+    ],
+    "nav": {
+     "links": 2,
+     "fixed": false,
+     "height": 80,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "bodoni moda",
+     "jost",
+     "jost fallback"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 11191,
+    "margins": {
+     "left": 16,
+     "right": 16
+    },
+    "sections": [
+     {
+      "sel": "section.place-hero",
+      "tag": "section",
+      "top": 0,
+      "height": 844,
+      "words": 24,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Your Pahrump Realtor",
+       "size": 51,
+       "tag": "h1"
+      },
+      "left": 16,
+      "right": 27,
+      "textLeft": 16,
+      "textRight": 27,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#proof.proof-section",
+      "tag": "section",
+      "top": 844,
+      "height": 900,
+      "words": 46,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Results with roots",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 44,
+      "right": 43,
+      "textLeft": 60,
+      "textRight": 59,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "div.listing-intro.is-in",
+      "tag": "div",
+      "top": 1854,
+      "height": 251,
+      "words": 20,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 16,
+      "right": 20,
+      "textLeft": 16,
+      "textRight": 20,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "form.listing-sheet.is-in",
+      "tag": "form",
+      "top": 2161,
+      "height": 914,
+      "words": 15,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Search listings",
+       "size": 32,
+       "tag": "h3"
+      },
+      "left": 44,
+      "right": 44,
+      "textLeft": 44,
+      "textRight": 90,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.services-heading.is-in",
+      "tag": "div",
+      "top": 3295,
+      "height": 217,
+      "words": 11,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 16,
+      "right": 23,
+      "textLeft": 16,
+      "textRight": 23,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.service-story",
+      "tag": "div",
+      "top": 3612,
+      "height": 1962,
+      "words": 104,
+      "media": 3,
+      "middle": 0,
+      "heading": {
+       "text": "Sell with a plan",
+       "size": 40,
+       "tag": "h3"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 17,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.expertise-note.is-in",
+      "tag": "div",
+      "top": 5574,
+      "height": 308,
+      "words": 25,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Rely on expertise",
+       "size": 40,
+       "tag": "h3"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 16,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#gallery.gallery-section",
+      "tag": "section",
+      "top": 5992,
+      "height": 1150,
+      "words": 23,
+      "media": 4,
+      "middle": 623,
+      "heading": {
+       "text": "Life around Pahrump",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 0,
+      "right": 0,
+      "textLeft": 16,
+      "textRight": 49,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "div.about-heading.is-in",
+      "tag": "div",
+      "top": 7252,
+      "height": 202,
+      "words": 12,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 16,
+      "right": 23,
+      "textLeft": 16,
+      "textRight": 23,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.about-grid",
+      "tag": "div",
+      "top": 7533,
+      "height": 1108,
+      "words": 90,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "“I love the small-town feeling our community offer",
+       "size": 26,
+       "tag": "blockquote"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 24,
+      "textRight": 24,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "img",
+      "tag": "img",
+      "top": 8752,
+      "height": 1595,
+      "words": 0,
+      "media": 1,
+      "middle": 0,
+      "heading": null,
+      "left": null,
+      "right": null,
+      "textLeft": null,
+      "textRight": null,
+      "fullBleed": true,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.visit-card.is-in",
+      "tag": "div",
+      "top": 9149,
+      "height": 581,
+      "words": 49,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Call or visit",
+       "size": 35,
+       "tag": "h2"
+      },
+      "left": 42,
+      "right": 42,
+      "textLeft": 42,
+      "textRight": 42,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "form.contact-form.is-in",
+      "tag": "form",
+      "top": 9748,
+      "height": 538,
+      "words": 12,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Drop Marci a line",
+       "size": 35,
+       "tag": "h3"
+      },
+      "left": 42,
+      "right": 42,
+      "textLeft": 42,
+      "textRight": 73,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.site-footer",
+      "tag": "footer",
+      "top": 10347,
+      "height": 844,
+      "words": 8,
+      "media": 1,
+      "middle": 0,
+      "heading": null,
+      "left": 16,
+      "right": 16,
+      "textLeft": 30,
+      "textRight": 83,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [
+     {
+      "top": 10348,
+      "height": 440
+     }
+    ],
+    "h1s": [
+     {
+      "text": "Your Pahrump Realtor",
+      "size": 51,
+      "top": 487,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 16,
+      "n": 21
+     },
+     {
+      "x": 42,
+      "n": 5
+     }
+    ],
+    "leftBlocks": 26,
+    "bodySize": 17,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "FAIL",
+   "id": "headline-lines",
+   "width": 1440,
+   "message": "2 headline(s) wrap past two lines at 1440px: \"Your Pahrump Realtor\" → 3 lines (3 words, 104px); \"“I love the small-town feeling our community off\" → 7 lines (22 words, 38.9px, a paragraph set above 36px)",
+   "fix": "Cut words first (a headline is a title, not a sentence). Then give it a wider measure. Lower the size only as a last resort and never below the scale you chose. A real statement paragraph belongs in a <p> or <blockquote> at 36px or less."
+  },
+  {
+   "level": "WARN",
+   "id": "size-count",
+   "width": 1440,
+   "message": "10 different font sizes (14, 15, 19, 26, 32, 35, 39, 43, 67, 104).",
+   "fix": "A page needs about five: display, heading, lead, body, small.",
+   "alsoAt": [
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "WARN",
+   "id": "side-scroll",
+   "width": 1440,
+   "message": "1 row(s) scroll sideways with content past their edge.",
+   "fix": "Jurors and most visitors read a row cut at the edge as clipped, not as scrollable. Wrap it onto more lines, or end it inside the grid.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "blank-gap",
+   "width": 1440,
+   "message": "A 440px stretch at 2696px holds nothing.",
+   "fix": "Check that it is a deliberate rest (once per page at most); otherwise close it to the normal section gap.",
+   "alsoAt": [
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "headline-lines",
+   "width": 768,
+   "message": "1 headline(s) wrap past two lines at 768px: \"Your Pahrump Realtor\" → 3 lines (3 words, 80px)",
+   "fix": "Cut words first (a headline is a title, not a sentence). Then give it a wider measure. Lower the size only as a last resort and never below the scale you chose. A real statement paragraph belongs in a <p> or <blockquote> at 32px or less."
+  },
+  {
+   "level": "WARN",
+   "id": "empty-middle",
+   "width": 768,
+   "message": "1 section(s) have content at both edges and 1175px of nothing between: \"Life around Pahrump\"",
+   "fix": "Bring the two parts together on the grid, or put the picture or figure of the section in the middle. An empty middle third reads as a hole, the same as an empty half."
+  },
+  {
+   "level": "FAIL",
+   "id": "headline-lines",
+   "width": 390,
+   "message": "2 headline(s) wrap past two lines at 390px: \"Your Pahrump Realtor\" → 3 lines (3 words, 50.7px); \"“I love the small-town feeling our community off\" → 6 lines (22 words, 25.6px, a paragraph set above 24px)",
+   "fix": "Cut words first (a headline is a title, not a sentence). Then give it a wider measure. Lower the size only as a last resort and never below the scale you chose. A real statement paragraph belongs in a <p> or <blockquote> at 24px or less."
+  },
+  {
+   "level": "FAIL",
+   "id": "eyebrow",
+   "width": 390,
+   "message": "1 eyebrow/kicker label(s) above headings: \"Get directions\" above \"Drop Marci a line\"",
+   "fix": "Delete them. If the label carried real information, fold it into the headline or the supporting sentence."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "D:\\WEBDEV FILE\\Skill Test\\marcimetzger-revamp\\.taste-skill\\content-redesign-round-1\\desktop-fold.jpg",
+   "pages": [
+    "D:\\WEBDEV FILE\\Skill Test\\marcimetzger-revamp\\.taste-skill\\content-redesign-round-1\\desktop-page-01.jpg",
+    "D:\\WEBDEV FILE\\Skill Test\\marcimetzger-revamp\\.taste-skill\\content-redesign-round-1\\desktop-page-02.jpg",
+    "D:\\WEBDEV FILE\\Skill Test\\marcimetzger-revamp\\.taste-skill\\content-redesign-round-1\\desktop-page-03.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "D:\\WEBDEV FILE\\Skill Test\\marcimetzger-revamp\\.taste-skill\\content-redesign-round-1\\tablet-fold.jpg",
+   "pages": [
+    "D:\\WEBDEV FILE\\Skill Test\\marcimetzger-revamp\\.taste-skill\\content-redesign-round-1\\tablet-page-01.jpg",
+    "D:\\WEBDEV FILE\\Skill Test\\marcimetzger-revamp\\.taste-skill\\content-redesign-round-1\\tablet-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "D:\\WEBDEV FILE\\Skill Test\\marcimetzger-revamp\\.taste-skill\\content-redesign-round-1\\mobile-fold.jpg",
+   "pages": [
+    "D:\\WEBDEV FILE\\Skill Test\\marcimetzger-revamp\\.taste-skill\\content-redesign-round-1\\mobile-page-01.jpg",
+    "D:\\WEBDEV FILE\\Skill Test\\marcimetzger-revamp\\.taste-skill\\content-redesign-round-1\\mobile-page-02.jpg"
+   ],
+   "film": []
+  }
+ ]
+}

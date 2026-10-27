@@ -1,0 +1,2811 @@
+{
+ "url": "http://localhost:3000",
+ "at": "2026-10-27T14:15:07.902Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 8,
+   "filled": [
+    0.78,
+    1,
+    1,
+    1,
+    1,
+    0.93,
+    0.93,
+    1
+   ],
+   "motion": {
+    "elements": 24,
+    "css": 6,
+    "transitions": 18,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 6826,
+     "screens": 7.6,
+     "words": 208,
+     "img": 8,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 6,
+     "horizontalOverflow": 408,
+     "overflowCulprits": [
+      "img (+23px)",
+      "img (+79px)",
+      "p.footer-name (+408px)"
+     ],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 5,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2Fimages%2Fmountain-falls.jpg&w=1920&",
+      "image?url=%2Fimages%2Fmountain-falls.jpg&w=750&q",
+      "image?url=%2Fimages%2Fservice-residential.jpg&w=",
+      "image?url=%2Fimages%2Fservice-property.jpg&w=750",
+      "image?url=%2Fimages%2Fservice-expertise.jpg&w=75"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "MARCI METZGER",
+     "words": 2,
+     "chars": 13,
+     "lines": 1,
+     "size": 157,
+     "vw": 10.9,
+     "font": "Panchang",
+     "weight": 400,
+     "tracking": -0.07,
+     "leading": 0.82,
+     "upper": true,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "right",
+     "widthRatio": 1.3,
+     "top": 755,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "MARCI METZGER",
+     "words": 2,
+     "lines": 1,
+     "size": 157,
+     "font": "Panchang"
+    },
+    "headings": [
+     {
+      "text": "MARCI METZGER",
+      "words": 2,
+      "chars": 13,
+      "lines": 1,
+      "size": 157,
+      "vw": 10.9,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.07,
+      "leading": 0.82,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 1.3,
+      "top": 755,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "PROVEN IN PAHRUMP",
+      "words": 3,
+      "chars": 17,
+      "lines": 2,
+      "size": 100.8,
+      "vw": 7,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.055,
+      "leading": 0.9,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.67,
+      "top": 1100,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "CHOOSE YOUR MOVE",
+      "words": 3,
+      "chars": 16,
+      "lines": 2,
+      "size": 64,
+      "vw": 4.4,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.05,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.64,
+      "top": 1973,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "BUY",
+      "words": 1,
+      "chars": 3,
+      "lines": 1,
+      "size": 129.6,
+      "vw": 9,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.06,
+      "leading": 0.9,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.28,
+      "top": 2171,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "SELL",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 129.6,
+      "vw": 9,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.06,
+      "leading": 0.9,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.33,
+      "top": 2298,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "INVEST",
+      "words": 1,
+      "chars": 6,
+      "lines": 1,
+      "size": 129.6,
+      "vw": 9,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.06,
+      "leading": 0.9,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.48,
+      "top": 2425,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "COMMERCIAL",
+      "words": 1,
+      "chars": 10,
+      "lines": 1,
+      "size": 129.6,
+      "vw": 9,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.06,
+      "leading": 0.9,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 2551,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "PAHRUMP, UP CLOSE",
+      "words": 3,
+      "chars": 17,
+      "lines": 1,
+      "size": 64,
+      "vw": 4.4,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.05,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.81,
+      "top": 3141,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Marci Metzger has spent nearly three decades helping people navigate real estate with confidence. Her team pairs deep market knowledge with the hands-on service every client deserves.",
+      "words": 27,
+      "chars": 183,
+      "lines": 4,
+      "size": 36,
+      "vw": 2.5,
+      "font": "Switzer",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.22,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.73,
+      "top": 4302,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Nobody knows the market like a local. From market analysis and upgrade lists to trusted contractors and lending connections, Marci keeps buyers and sellers informed at every step.",
+      "words": 28,
+      "chars": 179,
+      "lines": 3,
+      "size": 36,
+      "vw": 2.5,
+      "font": "Switzer",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.22,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.73,
+      "top": 4514,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "VISIT OR CALL",
+      "words": 3,
+      "chars": 13,
+      "lines": 1,
+      "size": 80.6,
+      "vw": 5.6,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.055,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 4847,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "MARCI METZGER",
+      "words": 2,
+      "chars": 13,
+      "lines": 1,
+      "size": 80.6,
+      "vw": 5.6,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.055,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 4992,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "3190 HW-160, SUITE F",
+      "words": 4,
+      "chars": 20,
+      "lines": 1,
+      "size": 80.6,
+      "vw": 5.6,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.055,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 5137,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "PAHRUMP, NEVADA 89048",
+      "words": 3,
+      "chars": 21,
+      "lines": 2,
+      "size": 80.6,
+      "vw": 5.6,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.055,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 5282,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "OPEN DAILY, 8 AM–7 PM",
+      "words": 5,
+      "chars": 21,
+      "lines": 1,
+      "size": 80.6,
+      "vw": 5.6,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.055,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 5491,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "(206) 919-6886",
+      "words": 2,
+      "chars": 14,
+      "lines": 1,
+      "size": 80.6,
+      "vw": 5.6,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.055,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 5636,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "CALL MARCI",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 80.6,
+      "vw": 5.6,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.055,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.49,
+      "top": 5822,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "MARCI METZGER",
+      "words": 2,
+      "chars": 13,
+      "lines": 1,
+      "size": 151.2,
+      "vw": 10.5,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.07,
+      "leading": 0.82,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 1.26,
+      "top": 6647,
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 18,
+     "maxLines": 4,
+     "over2Lines": 0,
+     "statements": 6,
+     "centered": 0,
+     "medianWords": 3,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Switzer",
+       "share": 0.81,
+       "mono": false
+      },
+      {
+       "family": "Panchang",
+       "share": 0.18,
+       "mono": false
+      },
+      {
+       "family": "Arial",
+       "share": 0,
+       "mono": false
+      }
+     ],
+     "familyCount": 3,
+     "sizes": [
+      13,
+      14,
+      15,
+      16,
+      18,
+      19,
+      26,
+      36,
+      44,
+      64,
+      81,
+      101,
+      130,
+      151,
+      157
+     ],
+     "sizeCount": 15,
+     "notLoaded": [],
+     "body": {
+      "font": "Switzer",
+      "size": 19,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 17.2
+     },
+     "measureChars": 53,
+     "max": {
+      "size": 157,
+      "vw": 10.9,
+      "font": "Panchang",
+      "text": "Marci"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.19,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#0f1f10",
+     "bodyBgHsl": {
+      "h": 124,
+      "s": 0.35,
+      "l": 0.09
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#0f1f10",
+       "top": 0,
+       "hsl": {
+        "h": 124,
+        "s": 0.35,
+        "l": 0.09
+       }
+      },
+      {
+       "color": "#456243",
+       "top": 0,
+       "hsl": {
+        "h": 116,
+        "s": 0.19,
+        "l": 0.32
+       }
+      },
+      {
+       "color": "#000000",
+       "top": 900,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0
+       }
+      },
+      {
+       "color": "#ffffff",
+       "top": 1800,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#162a17",
+       "top": 2968,
+       "hsl": {
+        "h": 123,
+        "s": 0.31,
+        "l": 0.13
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#0f1f10",
+       "share": 0.44
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.34
+      },
+      {
+       "color": "#465047",
+       "share": 0.15
+      },
+      {
+       "color": "#4f5a50",
+       "share": 0.05
+      },
+      {
+       "color": "#b9c0b9",
+       "share": 0.02
+      }
+     ],
+     "button": {
+      "bg": "#c6f19d",
+      "hsl": {
+       "h": 91,
+       "s": 0.75,
+       "l": 0.78
+      },
+      "fg": "#0f1f10"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 3,
+     "inHero": 2,
+     "radius": 0,
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Call Marci",
+      "Call Marci"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 5,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.58
+     }
+    ],
+    "nav": {
+     "links": 6,
+     "fixed": false,
+     "height": 80,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "panchang",
+     "switzer"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 6826,
+    "margins": {
+     "left": 32,
+     "right": 0
+    },
+    "sections": [
+     {
+      "sel": "section.monument-hero",
+      "tag": "section",
+      "top": 0,
+      "height": 900,
+      "words": 14,
+      "media": 1,
+      "middle": 13,
+      "heading": null,
+      "left": 32,
+      "right": 0,
+      "textLeft": 32,
+      "textRight": 0,
+      "fullBleed": true,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#proof.proof-section",
+      "tag": "section",
+      "top": 900,
+      "height": 900,
+      "words": 21,
+      "media": 0,
+      "middle": 360,
+      "heading": {
+       "text": "Proven in",
+       "size": 101,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 50,
+      "textLeft": 32,
+      "textRight": 50,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#move.move-section",
+      "tag": "section",
+      "top": 1800,
+      "height": 1168,
+      "words": 23,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Buy",
+       "size": 130,
+       "tag": "span"
+      },
+      "left": 32,
+      "right": 32,
+      "textLeft": 32,
+      "textRight": 32,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#pahrump.showcase-section",
+      "tag": "section",
+      "top": 2968,
+      "height": 1133,
+      "words": 13,
+      "media": 4,
+      "middle": 0,
+      "heading": {
+       "text": "Pahrump, up close",
+       "size": 64,
+       "tag": "h2"
+      },
+      "left": 0,
+      "right": 0,
+      "textLeft": 32,
+      "textRight": 209,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#about.about-section",
+      "tag": "section",
+      "top": 4101,
+      "height": 747,
+      "words": 73,
+      "media": 0,
+      "middle": 124,
+      "heading": {
+       "text": "Marci, locally",
+       "size": 18,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 90,
+      "textLeft": 32,
+      "textRight": 90,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#contact.contact-section",
+      "tag": "section",
+      "top": 4847,
+      "height": 1079,
+      "words": 21,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Visit or call",
+       "size": 81,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 82,
+      "textLeft": 32,
+      "textRight": 82,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "footer.site-footer",
+      "tag": "footer",
+      "top": 5926,
+      "height": 900,
+      "words": 31,
+      "media": 0,
+      "middle": 389,
+      "heading": null,
+      "left": 32,
+      "right": 0,
+      "textLeft": 32,
+      "textRight": -408,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [
+     {
+      "top": 1540,
+      "height": 420
+     },
+     {
+      "top": 2796,
+      "height": 332
+     },
+     {
+      "top": 3928,
+      "height": 372
+     },
+     {
+      "top": 6088,
+      "height": 528
+     }
+    ],
+    "h1s": [
+     {
+      "text": "MARCI METZGER",
+      "size": 157,
+      "top": 755,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 32,
+      "n": 7
+     },
+     {
+      "x": 205,
+      "n": 1
+     },
+     {
+      "x": 269,
+      "n": 1
+     },
+     {
+      "x": 321,
+      "n": 1
+     },
+     {
+      "x": 469,
+      "n": 1
+     },
+     {
+      "x": 768,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 12,
+    "bodySize": 36,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0.13,
+    "voidBox": {
+     "x": 0,
+     "y": 600,
+     "w": 1440,
+     "h": 120
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 7,
+   "filled": [
+    0.73,
+    1,
+    1,
+    1,
+    0.7,
+    1,
+    1
+   ],
+   "motion": {
+    "elements": 24,
+    "css": 6,
+    "transitions": 18,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 6511,
+     "screens": 6.4,
+     "words": 208,
+     "img": 8,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 6,
+     "horizontalOverflow": 217,
+     "overflowCulprits": [
+      "small (+13px)",
+      "img (+44px)",
+      "img (+100px)"
+     ],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 5,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2Fimages%2Fmountain-falls.jpg&w=828&q",
+      "image?url=%2Fimages%2Fmountain-falls.jpg&w=384&q",
+      "image?url=%2Fimages%2Fservice-residential.jpg&w=",
+      "image?url=%2Fimages%2Fservice-property.jpg&w=384",
+      "image?url=%2Fimages%2Fservice-expertise.jpg&w=38"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "MARCI METZGER",
+     "words": 2,
+     "chars": 13,
+     "lines": 1,
+     "size": 83.7,
+     "vw": 10.9,
+     "font": "Panchang",
+     "weight": 400,
+     "tracking": -0.07,
+     "leading": 0.82,
+     "upper": true,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "right",
+     "widthRatio": 1.3,
+     "top": 939,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "MARCI METZGER",
+     "words": 2,
+     "lines": 1,
+     "size": 83.7,
+     "font": "Panchang"
+    },
+    "headings": [
+     {
+      "text": "MARCI METZGER",
+      "words": 2,
+      "chars": 13,
+      "lines": 1,
+      "size": 83.7,
+      "vw": 10.9,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.07,
+      "leading": 0.82,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 1.3,
+      "top": 939,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "PROVEN IN PAHRUMP",
+      "words": 3,
+      "chars": 17,
+      "lines": 2,
+      "size": 54,
+      "vw": 7,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.055,
+      "leading": 0.9,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.67,
+      "top": 1134,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "CHOOSE YOUR MOVE",
+      "words": 3,
+      "chars": 16,
+      "lines": 2,
+      "size": 45.4,
+      "vw": 5.9,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.05,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.85,
+      "top": 2158,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "BUY",
+      "words": 1,
+      "chars": 3,
+      "lines": 1,
+      "size": 69.1,
+      "vw": 9,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.06,
+      "leading": 0.9,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.28,
+      "top": 2321,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "SELL",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 69.1,
+      "vw": 9,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.06,
+      "leading": 0.9,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.33,
+      "top": 2393,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "INVEST",
+      "words": 1,
+      "chars": 6,
+      "lines": 1,
+      "size": 69.1,
+      "vw": 9,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.06,
+      "leading": 0.9,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.48,
+      "top": 2466,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "COMMERCIAL",
+      "words": 1,
+      "chars": 10,
+      "lines": 1,
+      "size": 69.1,
+      "vw": 9,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.06,
+      "leading": 0.9,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 2538,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "PAHRUMP, UP CLOSE",
+      "words": 3,
+      "chars": 17,
+      "lines": 2,
+      "size": 45.4,
+      "vw": 5.9,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.05,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.81,
+      "top": 2939,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "VISIT OR CALL",
+      "words": 3,
+      "chars": 13,
+      "lines": 1,
+      "size": 43,
+      "vw": 5.6,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.055,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 4472,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "MARCI METZGER",
+      "words": 2,
+      "chars": 13,
+      "lines": 1,
+      "size": 43,
+      "vw": 5.6,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.055,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 4617,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "3190 HW-160, SUITE F",
+      "words": 4,
+      "chars": 20,
+      "lines": 1,
+      "size": 43,
+      "vw": 5.6,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.055,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 4762,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "PAHRUMP, NEVADA 89048",
+      "words": 3,
+      "chars": 21,
+      "lines": 2,
+      "size": 43,
+      "vw": 5.6,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.055,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 4907,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "OPEN DAILY, 8 AM–7 PM",
+      "words": 5,
+      "chars": 21,
+      "lines": 1,
+      "size": 43,
+      "vw": 5.6,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.055,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 5052,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "(206) 919-6886",
+      "words": 2,
+      "chars": 14,
+      "lines": 1,
+      "size": 43,
+      "vw": 5.6,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.055,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 5197,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "CALL MARCI",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 43,
+      "vw": 5.6,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.055,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.49,
+      "top": 5418,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "MARCI METZGER",
+      "words": 2,
+      "chars": 13,
+      "lines": 1,
+      "size": 80.6,
+      "vw": 10.5,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.07,
+      "leading": 0.82,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 1.26,
+      "top": 6389,
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 16,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 4,
+     "centered": 0,
+     "medianWords": 2,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Switzer",
+       "share": 0.81,
+       "mono": false
+      },
+      {
+       "family": "Panchang",
+       "share": 0.18,
+       "mono": false
+      },
+      {
+       "family": "Arial",
+       "share": 0,
+       "mono": false
+      }
+     ],
+     "familyCount": 3,
+     "sizes": [
+      13,
+      15,
+      16,
+      18,
+      23,
+      24,
+      43,
+      45,
+      54,
+      69,
+      81,
+      84
+     ],
+     "sizeCount": 12,
+     "notLoaded": [],
+     "body": {
+      "font": "Switzer",
+      "size": 24,
+      "leading": 1.22,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 17.2
+     },
+     "measureChars": 47,
+     "max": {
+      "size": 83.7,
+      "vw": 10.9,
+      "font": "Panchang",
+      "text": "Marci"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.19,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#0f1f10",
+     "bodyBgHsl": {
+      "h": 124,
+      "s": 0.35,
+      "l": 0.09
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#0f1f10",
+       "top": 0,
+       "hsl": {
+        "h": 124,
+        "s": 0.35,
+        "l": 0.09
+       }
+      },
+      {
+       "color": "#456243",
+       "top": 0,
+       "hsl": {
+        "h": 116,
+        "s": 0.19,
+        "l": 0.32
+       }
+      },
+      {
+       "color": "#000000",
+       "top": 1024,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0
+       }
+      },
+      {
+       "color": "#ffffff",
+       "top": 2048,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#162a17",
+       "top": 2829,
+       "hsl": {
+        "h": 123,
+        "s": 0.31,
+        "l": 0.13
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#0f1f10",
+       "share": 0.44
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.34
+      },
+      {
+       "color": "#465047",
+       "share": 0.15
+      },
+      {
+       "color": "#4f5a50",
+       "share": 0.05
+      },
+      {
+       "color": "#b9c0b9",
+       "share": 0.02
+      }
+     ],
+     "button": {
+      "bg": "#c6f19d",
+      "hsl": {
+       "h": 91,
+       "s": 0.75,
+       "l": 0.78
+      },
+      "fg": "#0f1f10"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 4,
+     "inHero": 2,
+     "radius": 0,
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Call Marci",
+      "Call Marci"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 2,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.58
+     }
+    ],
+    "nav": {
+     "links": 6,
+     "fixed": false,
+     "height": 80,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "panchang",
+     "switzer"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 6511,
+    "margins": {
+     "left": 17,
+     "right": 0
+    },
+    "sections": [
+     {
+      "sel": "section.monument-hero",
+      "tag": "section",
+      "top": 0,
+      "height": 1024,
+      "words": 14,
+      "media": 1,
+      "middle": 0,
+      "heading": null,
+      "left": 17,
+      "right": 0,
+      "textLeft": 17,
+      "textRight": 0,
+      "fullBleed": true,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#proof.proof-section",
+      "tag": "section",
+      "top": 1024,
+      "height": 1024,
+      "words": 21,
+      "media": 0,
+      "middle": 130,
+      "heading": {
+       "text": "Proven in",
+       "size": 54,
+       "tag": "h2"
+      },
+      "left": 17,
+      "right": 35,
+      "textLeft": 17,
+      "textRight": 35,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#move.move-section",
+      "tag": "section",
+      "top": 2048,
+      "height": 781,
+      "words": 23,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Buy",
+       "size": 69,
+       "tag": "span"
+      },
+      "left": 17,
+      "right": 0,
+      "textLeft": 17,
+      "textRight": -13,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#pahrump.showcase-section",
+      "tag": "section",
+      "top": 2829,
+      "height": 1115,
+      "words": 13,
+      "media": 4,
+      "middle": 0,
+      "heading": {
+       "text": "Pahrump, up close",
+       "size": 45,
+       "tag": "h2"
+      },
+      "left": 0,
+      "right": 0,
+      "textLeft": 17,
+      "textRight": 280,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#about.about-section",
+      "tag": "section",
+      "top": 3944,
+      "height": 527,
+      "words": 73,
+      "media": 0,
+      "middle": 38,
+      "heading": {
+       "text": "Marci, locally",
+       "size": 18,
+       "tag": "h2"
+      },
+      "left": 17,
+      "right": 21,
+      "textLeft": 17,
+      "textRight": 21,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#contact.contact-section",
+      "tag": "section",
+      "top": 4472,
+      "height": 1015,
+      "words": 21,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Visit or call",
+       "size": 43,
+       "tag": "h2"
+      },
+      "left": 17,
+      "right": 44,
+      "textLeft": 17,
+      "textRight": 44,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "footer.site-footer",
+      "tag": "footer",
+      "top": 5487,
+      "height": 1024,
+      "words": 31,
+      "media": 0,
+      "middle": 178,
+      "heading": null,
+      "left": 17,
+      "right": 0,
+      "textLeft": 17,
+      "textRight": -217,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [
+     {
+      "top": 1484,
+      "height": 664
+     },
+     {
+      "top": 5648,
+      "height": 724
+     }
+    ],
+    "h1s": [
+     {
+      "text": "MARCI METZGER",
+      "size": 84,
+      "top": 939,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 17,
+      "n": 7
+     },
+     {
+      "x": 184,
+      "n": 2
+     },
+     {
+      "x": 109,
+      "n": 1
+     },
+     {
+      "x": 144,
+      "n": 1
+     },
+     {
+      "x": 410,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 12,
+    "bodySize": 24,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 7,
+   "filled": [
+    0.64,
+    0.75,
+    0.76,
+    0.73,
+    0.65,
+    0.68,
+    0.81
+   ],
+   "motion": {
+    "elements": 24,
+    "css": 6,
+    "transitions": 18,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 521,
+     "h": 1128
+    },
+    "page": {
+     "height": 5901,
+     "screens": 5.2,
+     "words": 205,
+     "img": 8,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 6,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 5,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2Fimages%2Fmountain-falls.jpg&w=640&q",
+      "image?url=%2Fimages%2Fmountain-falls.jpg&w=384&q",
+      "image?url=%2Fimages%2Fservice-residential.jpg&w=",
+      "image?url=%2Fimages%2Fservice-property.jpg&w=384",
+      "image?url=%2Fimages%2Fservice-expertise.jpg&w=38"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "MARCI METZGER",
+     "words": 2,
+     "chars": 13,
+     "lines": 2,
+     "size": 74.1,
+     "vw": 14.2,
+     "font": "Panchang",
+     "weight": 400,
+     "tracking": -0.07,
+     "leading": 0.79,
+     "upper": true,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 1.02,
+     "top": 711,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "MARCI METZGER",
+     "words": 2,
+     "lines": 2,
+     "size": 74.1,
+     "font": "Panchang"
+    },
+    "headings": [
+     {
+      "text": "MARCI METZGER",
+      "words": 2,
+      "chars": 13,
+      "lines": 2,
+      "size": 74.1,
+      "vw": 14.2,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.07,
+      "leading": 0.79,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1.02,
+      "top": 711,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "PROVEN IN PAHRUMP",
+      "words": 3,
+      "chars": 17,
+      "lines": 3,
+      "size": 46.8,
+      "vw": 9,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.055,
+      "leading": 0.9,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.69,
+      "top": 954,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "$28.5 million",
+      "words": 2,
+      "chars": 13,
+      "lines": 1,
+      "size": 22,
+      "vw": 4.2,
+      "font": "Switzer",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.31,
+      "top": 1178,
+      "tag": "td",
+      "kind": "heading"
+     },
+     {
+      "text": "Nearly 90",
+      "words": 2,
+      "chars": 9,
+      "lines": 1,
+      "size": 22,
+      "vw": 4.2,
+      "font": "Switzer",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.31,
+      "top": 1276,
+      "tag": "td",
+      "kind": "heading"
+     },
+     {
+      "text": "Nearly 30 years",
+      "words": 3,
+      "chars": 15,
+      "lines": 1,
+      "size": 22,
+      "vw": 4.2,
+      "font": "Switzer",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.31,
+      "top": 1375,
+      "tag": "td",
+      "kind": "heading"
+     },
+     {
+      "text": "CHOOSE YOUR MOVE",
+      "words": 3,
+      "chars": 16,
+      "lines": 2,
+      "size": 33.3,
+      "vw": 6.4,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.05,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.69,
+      "top": 1648,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "BUY",
+      "words": 1,
+      "chars": 3,
+      "lines": 1,
+      "size": 50.7,
+      "vw": 9.7,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.06,
+      "leading": 0.9,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.64,
+      "top": 1769,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "SELL",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 50.7,
+      "vw": 9.7,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.06,
+      "leading": 0.9,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.69,
+      "top": 1875,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "INVEST",
+      "words": 1,
+      "chars": 6,
+      "lines": 1,
+      "size": 50.7,
+      "vw": 9.7,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.06,
+      "leading": 0.9,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.69,
+      "top": 1980,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "COMMERCIAL",
+      "words": 1,
+      "chars": 10,
+      "lines": 1,
+      "size": 50.7,
+      "vw": 9.7,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.06,
+      "leading": 0.9,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.69,
+      "top": 2086,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "PAHRUMP, UP CLOSE",
+      "words": 3,
+      "chars": 17,
+      "lines": 2,
+      "size": 33.3,
+      "vw": 6.4,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.05,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.69,
+      "top": 2586,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "VISIT OR CALL",
+      "words": 3,
+      "chars": 13,
+      "lines": 1,
+      "size": 32.8,
+      "vw": 6.3,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.055,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.75,
+      "top": 4367,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "MARCI METZGER",
+      "words": 2,
+      "chars": 13,
+      "lines": 2,
+      "size": 32.8,
+      "vw": 6.3,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.055,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.75,
+      "top": 4451,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "3190 HW-160, SUITE F",
+      "words": 4,
+      "chars": 20,
+      "lines": 2,
+      "size": 32.8,
+      "vw": 6.3,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.055,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.75,
+      "top": 4549,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "PAHRUMP, NEVADA 89048",
+      "words": 3,
+      "chars": 21,
+      "lines": 3,
+      "size": 32.8,
+      "vw": 6.3,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.055,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.75,
+      "top": 4647,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "OPEN DAILY, 8 AM–7 PM",
+      "words": 5,
+      "chars": 21,
+      "lines": 2,
+      "size": 32.8,
+      "vw": 6.3,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.055,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.75,
+      "top": 4776,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "(206) 919-6886",
+      "words": 2,
+      "chars": 14,
+      "lines": 2,
+      "size": 32.8,
+      "vw": 6.3,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.055,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.75,
+      "top": 4875,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "CALL MARCI",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 32.8,
+      "vw": 6.3,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.055,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.55,
+      "top": 5008,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "MARCI METZGER",
+      "words": 2,
+      "chars": 13,
+      "lines": 2,
+      "size": 64.4,
+      "vw": 12.4,
+      "font": "Panchang",
+      "weight": 400,
+      "tracking": -0.07,
+      "leading": 0.8,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.89,
+      "top": 5742,
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 19,
+     "maxLines": 3,
+     "over2Lines": 1,
+     "statements": 4,
+     "centered": 0,
+     "medianWords": 2,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Switzer",
+       "share": 0.81,
+       "mono": false
+      },
+      {
+       "family": "Panchang",
+       "share": 0.19,
+       "mono": false
+      },
+      {
+       "family": "Arial",
+       "share": 0,
+       "mono": false
+      }
+     ],
+     "familyCount": 3,
+     "sizes": [
+      13,
+      15,
+      16,
+      17,
+      18,
+      20,
+      22,
+      33,
+      47,
+      51,
+      64,
+      74
+     ],
+     "sizeCount": 12,
+     "notLoaded": [],
+     "body": {
+      "font": "Switzer",
+      "size": 22,
+      "leading": 1.28,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 17.2
+     },
+     "measureChars": 33,
+     "max": {
+      "size": 74.1,
+      "vw": 14.2,
+      "font": "Panchang",
+      "text": "Marci"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.19,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#0f1f10",
+     "bodyBgHsl": {
+      "h": 124,
+      "s": 0.35,
+      "l": 0.09
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#0f1f10",
+       "top": 0,
+       "hsl": {
+        "h": 124,
+        "s": 0.35,
+        "l": 0.09
+       }
+      },
+      {
+       "color": "#000000",
+       "top": 844,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0
+       }
+      },
+      {
+       "color": "#ffffff",
+       "top": 1538,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#162a17",
+       "top": 2476,
+       "hsl": {
+        "h": 123,
+        "s": 0.31,
+        "l": 0.13
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#0f1f10",
+       "share": 0.45
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.33
+      },
+      {
+       "color": "#465047",
+       "share": 0.15
+      },
+      {
+       "color": "#4f5a50",
+       "share": 0.05
+      },
+      {
+       "color": "#b9c0b9",
+       "share": 0.02
+      }
+     ],
+     "button": {
+      "bg": "#c6f19d",
+      "hsl": {
+       "h": 91,
+       "s": 0.75,
+       "l": 0.78
+      },
+      "fg": "#0f1f10"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 4,
+     "inHero": 2,
+     "radius": 0,
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 1,
+     "heroLabels": [
+      "Call Marci",
+      "Call Marci"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 3,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 7,
+       "iconTopped": false,
+       "rounded": false,
+       "top": 0
+      },
+      {
+       "count": 3,
+       "iconTopped": false,
+       "rounded": false,
+       "top": 4451
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.28
+     }
+    ],
+    "nav": {
+     "links": 2,
+     "fixed": false,
+     "height": 80,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "panchang",
+     "switzer"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 521,
+     "h": 1128
+    },
+    "pageH": 5901,
+    "margins": {
+     "left": 0,
+     "right": 42
+    },
+    "sections": [
+     {
+      "sel": "section.monument-hero",
+      "tag": "section",
+      "top": 0,
+      "height": 844,
+      "words": 16,
+      "media": 1,
+      "middle": 0,
+      "heading": null,
+      "left": 0,
+      "right": 131,
+      "textLeft": 16,
+      "textRight": 131,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#proof.proof-section",
+      "tag": "section",
+      "top": 844,
+      "height": 694,
+      "words": 21,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Proven in",
+       "size": 47,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 115,
+      "textLeft": 16,
+      "textRight": 115,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#move.move-section",
+      "tag": "section",
+      "top": 1538,
+      "height": 939,
+      "words": 23,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Buy",
+       "size": 51,
+       "tag": "span"
+      },
+      "left": 16,
+      "right": 0,
+      "textLeft": 16,
+      "textRight": 0,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#pahrump.showcase-section",
+      "tag": "section",
+      "top": 2476,
+      "height": 1129,
+      "words": 13,
+      "media": 4,
+      "middle": 0,
+      "heading": {
+       "text": "Pahrump, up close",
+       "size": 33,
+       "tag": "h2"
+      },
+      "left": 0,
+      "right": 131,
+      "textLeft": 16,
+      "textRight": 223,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#about.about-section",
+      "tag": "section",
+      "top": 3606,
+      "height": 761,
+      "words": 73,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 16,
+      "right": 159,
+      "textLeft": 16,
+      "textRight": 159,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#contact.contact-section",
+      "tag": "section",
+      "top": 4367,
+      "height": 690,
+      "words": 21,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Visit or call",
+       "size": 33,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 178,
+      "textLeft": 16,
+      "textRight": 178,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "footer.site-footer",
+      "tag": "footer",
+      "top": 5057,
+      "height": 844,
+      "words": 31,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 16,
+      "right": 42,
+      "textLeft": 16,
+      "textRight": 42,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [
+     {
+      "top": 5364,
+      "height": 364
+     }
+    ],
+    "h1s": [
+     {
+      "text": "MARCI METZGER",
+      "size": 74,
+      "top": 711,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 16,
+      "n": 11
+     },
+     {
+      "x": 59,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 12,
+    "bodySize": 22,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "WARN",
+   "id": "statement-length",
+   "width": 1440,
+   "message": "1 large-set statement(s) run past 3 lines at 1440px: \"Marci Metzger has spent nearly three dec…\" → 4 lines at 36px",
+   "fix": "A statement set large is about 30 words. Cut it, or set the rest as ordinary body text."
+  },
+  {
+   "level": "WARN",
+   "id": "size-count",
+   "width": 1440,
+   "message": "15 different font sizes (13, 14, 15, 16, 18, 19, 26, 36, 44, 64, 81, 101, 130, 151, 157).",
+   "fix": "A page needs about five: display, heading, lead, body, small.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "FAIL",
+   "id": "overflow",
+   "width": 1440,
+   "message": "Page scrolls sideways by 408px at 1440px. Widest offenders: img (+23px), img (+79px), p.footer-name (+408px).",
+   "fix": "Constrain the element that is wider than the viewport (max-width: 100%, or overflow: clip on its section)."
+  },
+  {
+   "level": "WARN",
+   "id": "off-centre",
+   "width": 1440,
+   "message": "The margins differ: 32px on the left, 0px on the right, at 1440px.",
+   "fix": "Put the navigation and the content on one pair of margins; check for padding on one side only, a scrollbar gutter, or a header on another inset than the page.",
+   "alsoAt": [
+    768
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "blank-gap",
+   "width": 1440,
+   "message": "2 stretch(es) of the page hold nothing at all: 420px at 1540px; 528px at 6088px (the screen is 900px tall).",
+   "fix": "Close the gap: a section gap is 120–240px on desktop and 72–112px on a phone. Look for a min-height: 100vh on a short section, an empty grid row, a hidden element still holding its space, or a reveal that never fired. A deliberate rest is a placed picture or colour field, not nothing.",
+   "alsoAt": [
+    768
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "overflow",
+   "width": 768,
+   "message": "Page scrolls sideways by 217px at 768px. Widest offenders: small (+13px), img (+44px), img (+100px).",
+   "fix": "Constrain the element that is wider than the viewport (max-width: 100%, or overflow: clip on its section)."
+  },
+  {
+   "level": "WARN",
+   "id": "name-only-title",
+   "width": 768,
+   "message": "The h1 is a bare name (\"MARCI METZGER\") and nothing else on the first screen says what this is.",
+   "fix": "Keep the name if it leads, and give the line under it (18px or more) the plain words: what it is, for whom, where or when. In the study of 97 Sites of the Day, first screens that named nothing lost usability and content points.",
+   "alsoAt": [
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "headline-lines",
+   "width": 390,
+   "message": "2 headline(s) wrap past two lines at 390px: \"PROVEN IN PAHRUMP\" → 3 lines (3 words, 46.8px); \"PAHRUMP, NEVADA 89048\" → 3 lines (3 words, 32.8px, a paragraph set above 24px)",
+   "fix": "Cut words first (a headline is a title, not a sentence). Then give it a wider measure. Lower the size only as a last resort and never below the scale you chose. A real statement paragraph belongs in a <p> or <blockquote> at 24px or less."
+  },
+  {
+   "level": "WARN",
+   "id": "card-rows",
+   "width": 390,
+   "message": "2 rows of identical boxed cards.",
+   "fix": "Vary the composition; not every section is a card grid."
+  },
+  {
+   "level": "FAIL",
+   "id": "off-centre",
+   "width": 390,
+   "message": "The page sits off-centre: its content comes to 0px from the left edge but only to 42px from the right, at 390px.",
+   "fix": "Give the page one pair of equal margins. Check the wrapper for a max-width without margin-inline: auto, a grid with an empty last column, or padding on one side only. If one side is meant to hold air, it must still be closed by something that reaches the margin (a picture, the navigation's last item, a figure)."
+  },
+  {
+   "level": "WARN",
+   "id": "untitled-section",
+   "width": 390,
+   "message": "A section carries text but no heading: section#about.about-section at 3606px.",
+   "fix": "Name it with a short heading unless it is the continuation of the section above."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "D:\\WEBDEV FILE\\Skill Test\\marcimetzger-revamp\\.taste-skill\\after-round-1\\desktop-fold.jpg",
+   "pages": [
+    "D:\\WEBDEV FILE\\Skill Test\\marcimetzger-revamp\\.taste-skill\\after-round-1\\desktop-page-01.jpg",
+    "D:\\WEBDEV FILE\\Skill Test\\marcimetzger-revamp\\.taste-skill\\after-round-1\\desktop-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "D:\\WEBDEV FILE\\Skill Test\\marcimetzger-revamp\\.taste-skill\\after-round-1\\tablet-fold.jpg",
+   "pages": [
+    "D:\\WEBDEV FILE\\Skill Test\\marcimetzger-revamp\\.taste-skill\\after-round-1\\tablet-page-01.jpg",
+    "D:\\WEBDEV FILE\\Skill Test\\marcimetzger-revamp\\.taste-skill\\after-round-1\\tablet-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "D:\\WEBDEV FILE\\Skill Test\\marcimetzger-revamp\\.taste-skill\\after-round-1\\mobile-fold.jpg",
+   "pages": [
+    "D:\\WEBDEV FILE\\Skill Test\\marcimetzger-revamp\\.taste-skill\\after-round-1\\mobile-page-01.jpg"
+   ],
+   "film": []
+  }
+ ]
+}

@@ -1,0 +1,3194 @@
+{
+ "url": "http://localhost:3000",
+ "at": "2026-10-27T14:09:56.337Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 6,
+   "filled": [
+    0.39,
+    0.53,
+    1,
+    0.67,
+    0.78,
+    1
+   ],
+   "motion": {
+    "elements": 1,
+    "css": 0,
+    "transitions": 0,
+    "scripted": 1,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 4738,
+     "screens": 5.3,
+     "words": 387,
+     "img": 8,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 6,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 6,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2Fimages%2Fmountain-falls.jpg&w=1920&",
+      "image?url=%2Fimages%2Fmarci-metzger.jpg&w=640&q=",
+      "image?url=%2Fimages%2Fservice-residential.jpg&w=",
+      "image?url=%2Fimages%2Fservice-property.jpg&w=640",
+      "image?url=%2Fimages%2Fservice-expertise.jpg&w=64",
+      "image?url=%2Fimages%2Fpahrump-landscape.jpg&w=19"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [
+      "☎"
+     ],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Find your place in the valley.",
+     "words": 6,
+     "chars": 30,
+     "lines": 2,
+     "size": 129.6,
+     "vw": 9,
+     "font": "Cormorant Garamond",
+     "weight": 500,
+     "tracking": -0.045,
+     "leading": 0.82,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.53,
+     "top": 479,
+     "mixedFonts": [
+      "Cormorant Garamond",
+      "Cormorant Garamond italic"
+     ],
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Find your place in the valley.",
+     "words": 6,
+     "lines": 2,
+     "size": 129.6,
+     "font": "Cormorant Garamond"
+    },
+    "headings": [
+     {
+      "text": "Find your place in the valley.",
+      "words": 6,
+      "chars": 30,
+      "lines": 2,
+      "size": 129.6,
+      "vw": 9,
+      "font": "Cormorant Garamond",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 0.82,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.53,
+      "top": 479,
+      "mixedFonts": [
+       "Cormorant Garamond",
+       "Cormorant Garamond italic"
+      ],
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Nearly 30",
+      "words": 2,
+      "chars": 9,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.17,
+      "top": 713,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Experience that moves you forward.",
+      "words": 5,
+      "chars": 34,
+      "lines": 2,
+      "size": 86.4,
+      "vw": 6,
+      "font": "Cormorant Garamond",
+      "weight": 500,
+      "tracking": -0.035,
+      "leading": 0.94,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.5,
+      "top": 1013,
+      "mixedFonts": [
+       "Cormorant Garamond",
+       "Cormorant Garamond italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "$28.5M",
+      "words": 1,
+      "chars": 6,
+      "lines": 1,
+      "size": 36,
+      "vw": 2.5,
+      "font": "Cormorant Garamond",
+      "weight": 600,
+      "tracking": 0,
+      "leading": 1.11,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.25,
+      "top": 1373,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Nearly 90",
+      "words": 2,
+      "chars": 9,
+      "lines": 1,
+      "size": 36,
+      "vw": 2.5,
+      "font": "Cormorant Garamond",
+      "weight": 600,
+      "tracking": 0,
+      "leading": 1.11,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.25,
+      "top": 1373,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Get it sold.",
+      "words": 3,
+      "chars": 12,
+      "lines": 1,
+      "size": 30,
+      "vw": 2.1,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.1,
+      "top": 1518,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Find your dream home.",
+      "words": 4,
+      "chars": 21,
+      "lines": 1,
+      "size": 60,
+      "vw": 4.2,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.38,
+      "top": 1771,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Real estate, handled with care.",
+      "words": 5,
+      "chars": 31,
+      "lines": 2,
+      "size": 86.4,
+      "vw": 6,
+      "font": "Cormorant Garamond",
+      "weight": 500,
+      "tracking": -0.035,
+      "leading": 0.94,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.46,
+      "top": 2197,
+      "mixedFonts": [
+       "Cormorant Garamond",
+       "Cormorant Garamond italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Real estate done right",
+      "words": 4,
+      "chars": 22,
+      "lines": 1,
+      "size": 36,
+      "vw": 2.5,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.3,
+      "top": 2517,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Commercial & residential",
+      "words": 3,
+      "chars": 24,
+      "lines": 1,
+      "size": 36,
+      "vw": 2.5,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.3,
+      "top": 2747,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Expertise you can rely on",
+      "words": 5,
+      "chars": 25,
+      "lines": 1,
+      "size": 36,
+      "vw": 2.5,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.3,
+      "top": 2977,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Don't just list it. Get it sold.",
+      "words": 7,
+      "chars": 32,
+      "lines": 2,
+      "size": 72,
+      "vw": 5,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.36,
+      "top": 3410,
+      "mixedFonts": [
+       "Cormorant Garamond",
+       "Cormorant Garamond italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Let's talk about what's next.",
+      "words": 5,
+      "chars": 29,
+      "lines": 2,
+      "size": 60,
+      "vw": 4.2,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.35,
+      "top": 3980,
+      "mixedFonts": [
+       "Cormorant Garamond",
+       "Cormorant Garamond italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Send a message",
+      "words": 3,
+      "chars": 14,
+      "lines": 1,
+      "size": 30,
+      "vw": 2.1,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.46,
+      "top": 3986,
+      "tag": "h3",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 14,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 4,
+     "centered": 0,
+     "medianWords": 4,
+     "mixedFontHeadings": 5
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Manrope",
+       "share": 0.85,
+       "mono": false
+      },
+      {
+       "family": "Cormorant Garamond",
+       "share": 0.15,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      9,
+      10,
+      12,
+      14,
+      16,
+      18,
+      20,
+      24,
+      30,
+      36,
+      48,
+      60,
+      72,
+      86,
+      130
+     ],
+     "sizeCount": 15,
+     "notLoaded": [],
+     "body": {
+      "font": "Manrope",
+      "size": 14,
+      "leading": 2,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 1.1
+     },
+     "measureChars": 75,
+     "max": {
+      "size": 129.6,
+      "vw": 9,
+      "font": "Cormorant Garamond",
+      "text": "Find your place"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 19,
+     "microLabelShare": 0.109,
+     "microSamples": [
+      "Pahrump, Nevada real estate",
+      "Years in real estate",
+      "The Ridge Realty Group",
+      "Meet your Realtor",
+      "Make your next move",
+      "Where"
+     ],
+     "upperShare": 0.17,
+     "centerShare": 0.01,
+     "smallText": 17
+    },
+    "eyebrows": [
+     {
+      "text": "Pahrump, Nevada real estate",
+      "above": "Find your place in the valley.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 10,
+      "top": 444
+     },
+     {
+      "text": "Meet your Realtor",
+      "above": "Experience that moves you forward.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 10.4,
+      "top": 978
+     },
+     {
+      "text": "Make your next move",
+      "above": "Find your dream home.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 10.4,
+      "top": 1740
+     },
+     {
+      "text": "How we help",
+      "above": "Real estate, handled with care.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 10.4,
+      "top": 2162
+     },
+     {
+      "text": "For sellers",
+      "above": "Don't just list it. Get it sold.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 10.4,
+      "top": 3375
+     },
+     {
+      "text": "Call or visit",
+      "above": "Let's talk about what's next.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 10.4,
+      "top": 3945
+     }
+    ],
+    "numbered": [
+     {
+      "text": "01",
+      "size": 24,
+      "top": 2523
+     },
+     {
+      "text": "02",
+      "size": 24,
+      "top": 2753
+     },
+     {
+      "text": "03",
+      "size": 24,
+      "top": 2983
+     }
+    ],
+    "color": {
+     "bodyBg": "#f3efe6",
+     "bodyBgHsl": {
+      "h": 42,
+      "s": 0.35,
+      "l": 0.93
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#f3efe6",
+       "top": 880,
+       "hsl": {
+        "h": 42,
+        "s": 0.35,
+        "l": 0.93
+       }
+      },
+      {
+       "color": "#173429",
+       "top": 1660,
+       "hsl": {
+        "h": 157,
+        "s": 0.39,
+        "l": 0.15
+       }
+      },
+      {
+       "color": "#ffffff",
+       "top": 2034,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#10241c",
+       "top": 3833,
+       "hsl": {
+        "h": 156,
+        "s": 0.38,
+        "l": 0.1
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#ffffff",
+       "share": 0.37
+      },
+      {
+       "color": "#68736c",
+       "share": 0.22
+      },
+      {
+       "color": "#4d5a53",
+       "share": 0.09
+      },
+      {
+       "color": "#173429",
+       "share": 0.07
+      },
+      {
+       "color": "#647068",
+       "share": 0.07
+      }
+     ],
+     "button": {
+      "bg": "#d6b47b",
+      "hsl": {
+       "h": 38,
+       "s": 0.53,
+       "l": 0.66
+      },
+      "fg": "#172820"
+     },
+     "lowContrast": [
+      {
+       "text": "Make your next move",
+       "ratio": 2.8,
+       "need": 4.5,
+       "size": 10.4,
+       "fg": "#8a6f45",
+       "bg": "#173429"
+      },
+      {
+       "text": "Call or visit",
+       "ratio": 3.4,
+       "need": 4.5,
+       "size": 10.4,
+       "fg": "#8a6f45",
+       "bg": "#10241c"
+      },
+      {
+       "text": "Meet your Realtor",
+       "ratio": 4.1,
+       "need": 4.5,
+       "size": 10.4,
+       "fg": "#8a6f45",
+       "bg": "#f3efe6"
+      },
+      {
+       "text": "in sales closed in 2021",
+       "ratio": 4.1,
+       "need": 4.5,
+       "size": 12,
+       "fg": "#6e766f",
+       "bg": "#f3efe6"
+      },
+      {
+       "text": "clients helped in 2021",
+       "ratio": 4.1,
+       "need": 4.5,
+       "size": 12,
+       "fg": "#6e766f",
+       "bg": "#f3efe6"
+      }
+     ]
+    },
+    "buttons": {
+     "count": 4,
+     "inHero": 2,
+     "radius": 0,
+     "height": 56,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 3,
+     "heroLabels": [
+      "EXPLORE HOMES ↗",
+      "↓"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 1,
+     "scrims": 1,
+     "gradientSamples": [
+      "div.absolute.inset-0 → linear-gradient(90deg, rgba(14, 30, 24, 0.88), rgba(14, 30, 24, 0.3))"
+     ],
+     "gradientText": 0,
+     "hairlines": 6,
+     "hairlineSamples": [
+      "header.absolute.inset-x-0 1440px",
+      "div.mt-10.grid 736px",
+      "div.divide-y.divide-[#d8d1c6] 1344px",
+      "article.group.grid 1344px",
+      "article.group.grid 1344px"
+     ],
+     "outlinedBoxes": 2,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 6,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.98
+     }
+    ],
+    "nav": {
+     "links": 6,
+     "fixed": false,
+     "height": 97,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "cormorant garamond",
+     "cormorant garamond fallback",
+     "manrope",
+     "manrope fallback"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 4738,
+    "margins": {
+     "left": 48,
+     "right": 48
+    },
+    "sections": [
+     {
+      "sel": "section.hero.relative",
+      "tag": "section",
+      "top": 0,
+      "height": 880,
+      "words": 30,
+      "media": 1,
+      "middle": 393,
+      "heading": {
+       "text": "Find your place",
+       "size": 130,
+       "tag": "h1"
+      },
+      "left": 48,
+      "right": 121,
+      "textLeft": 48,
+      "textRight": 121,
+      "fullBleed": true,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#about.bg-[#f3efe6].px-5",
+      "tag": "section",
+      "top": 880,
+      "height": 780,
+      "words": 81,
+      "media": 1,
+      "middle": 113,
+      "heading": {
+       "text": "Experience that moves you",
+       "size": 86,
+       "tag": "h2"
+      },
+      "left": 69,
+      "right": 88,
+      "textLeft": 395,
+      "textRight": 88,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#listings.relative.bg-[#173429]",
+      "tag": "section",
+      "top": 1660,
+      "height": 374,
+      "words": 31,
+      "media": 0,
+      "middle": 16,
+      "heading": {
+       "text": "Find your dream home.",
+       "size": 60,
+       "tag": "h2"
+      },
+      "left": 48,
+      "right": 48,
+      "textLeft": 48,
+      "textRight": 64,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#services.bg-white.px-5",
+      "tag": "section",
+      "top": 2034,
+      "height": 1209,
+      "words": 126,
+      "media": 3,
+      "middle": 0,
+      "heading": {
+       "text": "Real estate, handled with",
+       "size": 86,
+       "tag": "h2"
+      },
+      "left": 48,
+      "right": 48,
+      "textLeft": 48,
+      "textRight": 75,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.relative.min-h-[590px]",
+      "tag": "section",
+      "top": 3243,
+      "height": 590,
+      "words": 35,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Don't just list it.",
+       "size": 72,
+       "tag": "h2"
+      },
+      "left": 48,
+      "right": 913,
+      "textLeft": 48,
+      "textRight": 913,
+      "fullBleed": true,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#contact.bg-[#10241c].px-5",
+      "tag": "section",
+      "top": 3833,
+      "height": 739,
+      "words": 49,
+      "media": 0,
+      "middle": 279,
+      "heading": {
+       "text": "Let's talk about",
+       "size": 60,
+       "tag": "h2"
+      },
+      "left": 48,
+      "right": 89,
+      "textLeft": 48,
+      "textRight": 377,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "footer.bg-[#0b1913].px-5",
+      "tag": "footer",
+      "top": 4572,
+      "height": 167,
+      "words": 12,
+      "media": 0,
+      "middle": 975,
+      "heading": {
+       "text": "Marci Metzger",
+       "size": 24,
+       "tag": "p"
+      },
+      "left": 48,
+      "right": 48,
+      "textLeft": 48,
+      "textRight": 48,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Find your place in the valley.",
+      "size": 130,
+      "top": 479,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 48,
+      "n": 9
+     },
+     {
+      "x": 154,
+      "n": 3
+     },
+     {
+      "x": 620,
+      "n": 3
+     },
+     {
+      "x": 656,
+      "n": 3
+     },
+     {
+      "x": 207,
+      "n": 1
+     },
+     {
+      "x": 281,
+      "n": 1
+     },
+     {
+      "x": 684,
+      "n": 1
+     },
+     {
+      "x": 786,
+      "n": 1
+     },
+     {
+      "x": 816,
+      "n": 1
+     },
+     {
+      "x": 1008,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 24,
+    "bodySize": 14,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 6,
+   "filled": [
+    0.47,
+    0.42,
+    1,
+    0.84,
+    0.72,
+    1
+   ],
+   "motion": {
+    "elements": 1,
+    "css": 0,
+    "transitions": 0,
+    "scripted": 1,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 5860,
+     "screens": 5.7,
+     "words": 378,
+     "img": 8,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 6,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 6,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2Fimages%2Fmountain-falls.jpg&w=828&q",
+      "image?url=%2Fimages%2Fmarci-metzger.jpg&w=750&q=",
+      "image?url=%2Fimages%2Fservice-residential.jpg&w=",
+      "image?url=%2Fimages%2Fservice-property.jpg&w=750",
+      "image?url=%2Fimages%2Fservice-expertise.jpg&w=75",
+      "image?url=%2Fimages%2Fpahrump-landscape.jpg&w=82"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [
+      "☎",
+      "☰"
+     ],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Find your place in the valley.",
+     "words": 6,
+     "chars": 30,
+     "lines": 2,
+     "size": 69.1,
+     "vw": 9,
+     "font": "Cormorant Garamond",
+     "weight": 500,
+     "tracking": -0.045,
+     "leading": 0.82,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.92,
+     "top": 475,
+     "mixedFonts": [
+      "Cormorant Garamond",
+      "Cormorant Garamond italic"
+     ],
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Find your place in the valley.",
+     "words": 6,
+     "lines": 2,
+     "size": 69.1,
+     "font": "Cormorant Garamond"
+    },
+    "headings": [
+     {
+      "text": "Find your place in the valley.",
+      "words": 6,
+      "chars": 30,
+      "lines": 2,
+      "size": 69.1,
+      "vw": 9,
+      "font": "Cormorant Garamond",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 0.82,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 475,
+      "mixedFonts": [
+       "Cormorant Garamond",
+       "Cormorant Garamond italic"
+      ],
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Get it sold.",
+      "words": 3,
+      "chars": 12,
+      "lines": 1,
+      "size": 30,
+      "vw": 3.9,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.19,
+      "top": 1366,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Experience that moves you forward.",
+      "words": 5,
+      "chars": 34,
+      "lines": 1,
+      "size": 51.2,
+      "vw": 6.7,
+      "font": "Cormorant Garamond",
+      "weight": 500,
+      "tracking": -0.035,
+      "leading": 0.94,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 1527,
+      "mixedFonts": [
+       "Cormorant Garamond",
+       "Cormorant Garamond italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "$28.5M",
+      "words": 1,
+      "chars": 6,
+      "lines": 1,
+      "size": 36,
+      "vw": 4.7,
+      "font": "Cormorant Garamond",
+      "weight": 600,
+      "tracking": 0,
+      "leading": 1.11,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.44,
+      "top": 1772,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Nearly 90",
+      "words": 2,
+      "chars": 9,
+      "lines": 1,
+      "size": 36,
+      "vw": 4.7,
+      "font": "Cormorant Garamond",
+      "weight": 600,
+      "tracking": 0,
+      "leading": 1.11,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.44,
+      "top": 1772,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Find your dream home.",
+      "words": 4,
+      "chars": 21,
+      "lines": 2,
+      "size": 60,
+      "vw": 7.8,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.45,
+      "top": 2121,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Real estate, handled with care.",
+      "words": 5,
+      "chars": 31,
+      "lines": 1,
+      "size": 51.2,
+      "vw": 6.7,
+      "font": "Cormorant Garamond",
+      "weight": 500,
+      "tracking": -0.035,
+      "leading": 0.94,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 2715,
+      "mixedFonts": [
+       "Cormorant Garamond",
+       "Cormorant Garamond italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Real estate done right",
+      "words": 4,
+      "chars": 22,
+      "lines": 4,
+      "size": 36,
+      "vw": 4.7,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.18,
+      "top": 2978,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Commercial & residential",
+      "words": 3,
+      "chars": 24,
+      "lines": 3,
+      "size": 36,
+      "vw": 4.7,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.23,
+      "top": 3318,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Expertise you can rely on",
+      "words": 5,
+      "chars": 25,
+      "lines": 3,
+      "size": 36,
+      "vw": 4.7,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.18,
+      "top": 3621,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Don't just list it. Get it sold.",
+      "words": 7,
+      "chars": 32,
+      "lines": 2,
+      "size": 72,
+      "vw": 9.4,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.67,
+      "top": 4067,
+      "mixedFonts": [
+       "Cormorant Garamond",
+       "Cormorant Garamond italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Let's talk about what's next.",
+      "words": 5,
+      "chars": 29,
+      "lines": 2,
+      "size": 60,
+      "vw": 7.8,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 4605,
+      "mixedFonts": [
+       "Cormorant Garamond",
+       "Cormorant Garamond italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Send a message",
+      "words": 3,
+      "chars": 14,
+      "lines": 1,
+      "size": 30,
+      "vw": 3.9,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.81,
+      "top": 5139,
+      "tag": "h3",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 13,
+     "maxLines": 4,
+     "over2Lines": 3,
+     "statements": 3,
+     "centered": 0,
+     "medianWords": 4,
+     "mixedFontHeadings": 5
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Manrope",
+       "share": 0.85,
+       "mono": false
+      },
+      {
+       "family": "Cormorant Garamond",
+       "share": 0.15,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      9,
+      10,
+      12,
+      14,
+      16,
+      18,
+      20,
+      24,
+      30,
+      36,
+      51,
+      60,
+      69,
+      72
+     ],
+     "sizeCount": 14,
+     "notLoaded": [],
+     "body": {
+      "font": "Manrope",
+      "size": 14,
+      "leading": 2,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 1.1
+     },
+     "measureChars": 75,
+     "max": {
+      "size": 72,
+      "vw": 9.4,
+      "font": "Cormorant Garamond",
+      "text": "Don't just list it."
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 18,
+     "microLabelShare": 0.103,
+     "microSamples": [
+      "Pahrump, Nevada real estate",
+      "The Ridge Realty Group",
+      "Meet your Realtor",
+      "Make your next move",
+      "Where",
+      "Property type"
+     ],
+     "upperShare": 0.15,
+     "centerShare": 0.01,
+     "smallText": 16
+    },
+    "eyebrows": [
+     {
+      "text": "Pahrump, Nevada real estate",
+      "above": "Find your place in the valley.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 10,
+      "top": 440
+     },
+     {
+      "text": "Meet your Realtor",
+      "above": "Experience that moves you forward.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 10.4,
+      "top": 1492
+     },
+     {
+      "text": "Make your next move",
+      "above": "Find your dream home.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 10.4,
+      "top": 2089
+     },
+     {
+      "text": "How we help",
+      "above": "Real estate, handled with care.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 10.4,
+      "top": 2680
+     },
+     {
+      "text": "For sellers",
+      "above": "Don't just list it. Get it sold.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 10.4,
+      "top": 4032
+     },
+     {
+      "text": "Call or visit",
+      "above": "Let's talk about what's next.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 10.4,
+      "top": 4569
+     }
+    ],
+    "numbered": [
+     {
+      "text": "01",
+      "size": 24,
+      "top": 3052
+     },
+     {
+      "text": "02",
+      "size": 24,
+      "top": 3369
+     },
+     {
+      "text": "03",
+      "size": 24,
+      "top": 3672
+     }
+    ],
+    "color": {
+     "bodyBg": "#f3efe6",
+     "bodyBgHsl": {
+      "h": 42,
+      "s": 0.35,
+      "l": 0.93
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#f3efe6",
+       "top": 760,
+       "hsl": {
+        "h": 42,
+        "s": 0.35,
+        "l": 0.93
+       }
+      },
+      {
+       "color": "#ddd4c5",
+       "top": 824,
+       "hsl": {
+        "h": 38,
+        "s": 0.26,
+        "l": 0.82
+       }
+      },
+      {
+       "color": "#173429",
+       "top": 2025,
+       "hsl": {
+        "h": 157,
+        "s": 0.39,
+        "l": 0.15
+       }
+      },
+      {
+       "color": "#ffffff",
+       "top": 2600,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#10241c",
+       "top": 4489,
+       "hsl": {
+        "h": 156,
+        "s": 0.38,
+        "l": 0.1
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#ffffff",
+       "share": 0.35
+      },
+      {
+       "color": "#68736c",
+       "share": 0.22
+      },
+      {
+       "color": "#4d5a53",
+       "share": 0.09
+      },
+      {
+       "color": "#173429",
+       "share": 0.07
+      },
+      {
+       "color": "#647068",
+       "share": 0.07
+      }
+     ],
+     "button": {
+      "bg": "#d6b47b",
+      "hsl": {
+       "h": 38,
+       "s": 0.53,
+       "l": 0.66
+      },
+      "fg": "#172820"
+     },
+     "lowContrast": [
+      {
+       "text": "Make your next move",
+       "ratio": 2.8,
+       "need": 4.5,
+       "size": 10.4,
+       "fg": "#8a6f45",
+       "bg": "#173429"
+      },
+      {
+       "text": "Call or visit",
+       "ratio": 3.4,
+       "need": 4.5,
+       "size": 10.4,
+       "fg": "#8a6f45",
+       "bg": "#10241c"
+      },
+      {
+       "text": "Meet your Realtor",
+       "ratio": 4.1,
+       "need": 4.5,
+       "size": 10.4,
+       "fg": "#8a6f45",
+       "bg": "#f3efe6"
+      },
+      {
+       "text": "in sales closed in 2021",
+       "ratio": 4.1,
+       "need": 4.5,
+       "size": 12,
+       "fg": "#6e766f",
+       "bg": "#f3efe6"
+      },
+      {
+       "text": "clients helped in 2021",
+       "ratio": 4.1,
+       "need": 4.5,
+       "size": 12,
+       "fg": "#6e766f",
+       "bg": "#f3efe6"
+      }
+     ]
+    },
+    "buttons": {
+     "count": 4,
+     "inHero": 2,
+     "radius": 0,
+     "height": 56,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 3,
+     "heroLabels": [
+      "EXPLORE HOMES ↗",
+      "↓"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 1,
+     "scrims": 1,
+     "gradientSamples": [
+      "div.absolute.inset-0 → linear-gradient(90deg, rgba(14, 30, 24, 0.88), rgba(14, 30, 24, 0.3))"
+     ],
+     "gradientText": 0,
+     "hairlines": 6,
+     "hairlineSamples": [
+      "header.absolute.inset-x-0 768px",
+      "div.mt-10.grid 704px",
+      "div.divide-y.divide-[#d8d1c6] 704px",
+      "article.group.grid 704px",
+      "article.group.grid 704px"
+     ],
+     "outlinedBoxes": 2,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 6,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.74
+     },
+     {
+      "type": "img",
+      "ratio": 0.12
+     }
+    ],
+    "nav": {
+     "links": 2,
+     "fixed": false,
+     "height": 97,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "cormorant garamond",
+     "cormorant garamond fallback",
+     "manrope",
+     "manrope fallback"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 5860,
+    "margins": {
+     "left": 32,
+     "right": 32
+    },
+    "sections": [
+     {
+      "sel": "section.hero.relative",
+      "tag": "section",
+      "top": 0,
+      "height": 760,
+      "words": 24,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Find your place",
+       "size": 69,
+       "tag": "h1"
+      },
+      "left": 32,
+      "right": 197,
+      "textLeft": 32,
+      "textRight": 197,
+      "fullBleed": true,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#about.bg-[#f3efe6].px-5",
+      "tag": "section",
+      "top": 760,
+      "height": 1265,
+      "words": 81,
+      "media": 1,
+      "middle": 0,
+      "heading": null,
+      "left": 32,
+      "right": 82,
+      "textLeft": 32,
+      "textRight": 82,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#listings.relative.bg-[#173429]",
+      "tag": "section",
+      "top": 2025,
+      "height": 574,
+      "words": 31,
+      "media": 0,
+      "middle": 16,
+      "heading": {
+       "text": "Find your dream home.",
+       "size": 60,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 32,
+      "textLeft": 32,
+      "textRight": 40,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#services.bg-white.px-5",
+      "tag": "section",
+      "top": 2600,
+      "height": 1300,
+      "words": 126,
+      "media": 3,
+      "middle": 0,
+      "heading": {
+       "text": "Real estate, handled with",
+       "size": 51,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 32,
+      "textLeft": 32,
+      "textRight": 184,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.relative.min-h-[590px]",
+      "tag": "section",
+      "top": 3899,
+      "height": 590,
+      "words": 35,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Don't just list it.",
+       "size": 72,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 257,
+      "textLeft": 32,
+      "textRight": 257,
+      "fullBleed": true,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#contact.bg-[#10241c].px-5",
+      "tag": "section",
+      "top": 4489,
+      "height": 1204,
+      "words": 49,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Let's talk about",
+       "size": 60,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 73,
+      "textLeft": 32,
+      "textRight": 339,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "footer.bg-[#0b1913].px-5",
+      "tag": "footer",
+      "top": 5693,
+      "height": 167,
+      "words": 12,
+      "media": 0,
+      "middle": 335,
+      "heading": {
+       "text": "Marci Metzger",
+       "size": 24,
+       "tag": "p"
+      },
+      "left": 32,
+      "right": 32,
+      "textLeft": 32,
+      "textRight": 32,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Find your place in the valley.",
+      "size": 69,
+      "top": 475,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 32,
+      "n": 13
+     },
+     {
+      "x": 138,
+      "n": 3
+     },
+     {
+      "x": 313,
+      "n": 2
+     },
+     {
+      "x": 73,
+      "n": 1
+     },
+     {
+      "x": 265,
+      "n": 1
+     },
+     {
+      "x": 347,
+      "n": 1
+     },
+     {
+      "x": 402,
+      "n": 1
+     },
+     {
+      "x": 502,
+      "n": 1
+     },
+     {
+      "x": 532,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 24,
+    "bodySize": 14,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 9,
+   "filled": [
+    0.4,
+    0.69,
+    0.59,
+    0.99,
+    0.99,
+    0.87,
+    0.66,
+    0.99,
+    0.99
+   ],
+   "motion": {
+    "elements": 1,
+    "css": 0,
+    "transitions": 0,
+    "scripted": 1,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 7067,
+     "screens": 8.4,
+     "words": 372,
+     "img": 8,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 6,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 6,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2Fimages%2Fmountain-falls.jpg&w=640&q",
+      "image?url=%2Fimages%2Fmarci-metzger.jpg&w=384&q=",
+      "image?url=%2Fimages%2Fservice-residential.jpg&w=",
+      "image?url=%2Fimages%2Fservice-property.jpg&w=640",
+      "image?url=%2Fimages%2Fservice-expertise.jpg&w=64",
+      "image?url=%2Fimages%2Fpahrump-landscape.jpg&w=64"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [
+      "☰"
+     ],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Find your place in the valley.",
+     "words": 6,
+     "chars": 30,
+     "lines": 2,
+     "size": 64,
+     "vw": 16.4,
+     "font": "Cormorant Garamond",
+     "weight": 500,
+     "tracking": -0.045,
+     "leading": 0.82,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.9,
+     "top": 403,
+     "mixedFonts": [
+      "Cormorant Garamond",
+      "Cormorant Garamond italic"
+     ],
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Find your place in the valley.",
+     "words": 6,
+     "lines": 2,
+     "size": 64,
+     "font": "Cormorant Garamond"
+    },
+    "headings": [
+     {
+      "text": "Find your place in the valley.",
+      "words": 6,
+      "chars": 30,
+      "lines": 2,
+      "size": 64,
+      "vw": 16.4,
+      "font": "Cormorant Garamond",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 0.82,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 403,
+      "mixedFonts": [
+       "Cormorant Garamond",
+       "Cormorant Garamond italic"
+      ],
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Get it sold.",
+      "words": 3,
+      "chars": 12,
+      "lines": 1,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.38,
+      "top": 1216,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Experience that moves you forward.",
+      "words": 5,
+      "chars": 34,
+      "lines": 3,
+      "size": 51.2,
+      "vw": 13.1,
+      "font": "Cormorant Garamond",
+      "weight": 500,
+      "tracking": -0.035,
+      "leading": 0.94,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 1377,
+      "mixedFonts": [
+       "Cormorant Garamond",
+       "Cormorant Garamond italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "$28.5M",
+      "words": 1,
+      "chars": 6,
+      "lines": 1,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Cormorant Garamond",
+      "weight": 600,
+      "tracking": 0,
+      "leading": 1.11,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 1782,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Nearly 90",
+      "words": 2,
+      "chars": 9,
+      "lines": 1,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Cormorant Garamond",
+      "weight": 600,
+      "tracking": 0,
+      "leading": 1.11,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 1874,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Find your dream home.",
+      "words": 4,
+      "chars": 21,
+      "lines": 1,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.11,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 2251,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Real estate, handled with care.",
+      "words": 5,
+      "chars": 31,
+      "lines": 2,
+      "size": 51.2,
+      "vw": 13.1,
+      "font": "Cormorant Garamond",
+      "weight": 500,
+      "tracking": -0.035,
+      "leading": 0.94,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 3042,
+      "mixedFonts": [
+       "Cormorant Garamond",
+       "Cormorant Garamond italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "01",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 3364,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "Real estate done right",
+      "words": 4,
+      "chars": 22,
+      "lines": 1,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 3420,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "02",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 3879,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "Commercial & residential",
+      "words": 3,
+      "chars": 24,
+      "lines": 1,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 3935,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "03",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 4394,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "Expertise you can rely on",
+      "words": 5,
+      "chars": 25,
+      "lines": 1,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 4450,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Don't just list it. Get it sold.",
+      "words": 7,
+      "chars": 32,
+      "lines": 2,
+      "size": 48,
+      "vw": 12.3,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 5104,
+      "mixedFonts": [
+       "Cormorant Garamond",
+       "Cormorant Garamond italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Let's talk about what's next.",
+      "words": 5,
+      "chars": 29,
+      "lines": 2,
+      "size": 48,
+      "vw": 12.3,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 5635,
+      "mixedFonts": [
+       "Cormorant Garamond",
+       "Cormorant Garamond italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Send a message",
+      "words": 3,
+      "chars": 14,
+      "lines": 1,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 6157,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Marci Metzger",
+      "words": 2,
+      "chars": 13,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Cormorant Garamond",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 6857,
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 17,
+     "maxLines": 3,
+     "over2Lines": 1,
+     "statements": 4,
+     "centered": 0,
+     "medianWords": 3,
+     "mixedFontHeadings": 5
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Manrope",
+       "share": 0.85,
+       "mono": false
+      },
+      {
+       "family": "Cormorant Garamond",
+       "share": 0.15,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      9,
+      10,
+      12,
+      14,
+      16,
+      18,
+      20,
+      24,
+      30,
+      36,
+      48,
+      51,
+      64
+     ],
+     "sizeCount": 13,
+     "notLoaded": [],
+     "body": {
+      "font": "Manrope",
+      "size": 14,
+      "leading": 2,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 1.1
+     },
+     "measureChars": 39,
+     "max": {
+      "size": 64,
+      "vw": 16.4,
+      "font": "Cormorant Garamond",
+      "text": "Find your place"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 18,
+     "microLabelShare": 0.104,
+     "microSamples": [
+      "Pahrump, Nevada real estate",
+      "The Ridge Realty Group",
+      "Meet your Realtor",
+      "Make your next move",
+      "Where",
+      "Property type"
+     ],
+     "upperShare": 0.15,
+     "centerShare": 0.01,
+     "smallText": 16
+    },
+    "eyebrows": [
+     {
+      "text": "Pahrump, Nevada real estate",
+      "above": "Find your place in the valley.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 10,
+      "top": 368
+     },
+     {
+      "text": "Meet your Realtor",
+      "above": "Experience that moves you forward.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 10.4,
+      "top": 1342
+     },
+     {
+      "text": "Make your next move",
+      "above": "Find your dream home.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 10.4,
+      "top": 2219
+     },
+     {
+      "text": "How we help",
+      "above": "Real estate, handled with care.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 10.4,
+      "top": 3007
+     },
+     {
+      "text": "For sellers",
+      "above": "Don't just list it. Get it sold.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 10.4,
+      "top": 5069
+     },
+     {
+      "text": "Call or visit",
+      "above": "Let's talk about what's next.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 10.4,
+      "top": 5600
+     }
+    ],
+    "numbered": [
+     {
+      "text": "01",
+      "size": 24,
+      "top": 3364
+     },
+     {
+      "text": "02",
+      "size": 24,
+      "top": 3879
+     },
+     {
+      "text": "03",
+      "size": 24,
+      "top": 4394
+     }
+    ],
+    "color": {
+     "bodyBg": "#f3efe6",
+     "bodyBgHsl": {
+      "h": 42,
+      "s": 0.35,
+      "l": 0.93
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#f3efe6",
+       "top": 760,
+       "hsl": {
+        "h": 42,
+        "s": 0.35,
+        "l": 0.93
+       }
+      },
+      {
+       "color": "#ddd4c5",
+       "top": 824,
+       "hsl": {
+        "h": 38,
+        "s": 0.26,
+        "l": 0.82
+       }
+      },
+      {
+       "color": "#173429",
+       "top": 2155,
+       "hsl": {
+        "h": 157,
+        "s": 0.39,
+        "l": 0.15
+       }
+      },
+      {
+       "color": "#ffffff",
+       "top": 2927,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#10241c",
+       "top": 5520,
+       "hsl": {
+        "h": 156,
+        "s": 0.38,
+        "l": 0.1
+       }
+      },
+      {
+       "color": "#0b1913",
+       "top": 6780,
+       "hsl": {
+        "h": 154,
+        "s": 0.39,
+        "l": 0.07
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#ffffff",
+       "share": 0.35
+      },
+      {
+       "color": "#68736c",
+       "share": 0.23
+      },
+      {
+       "color": "#4d5a53",
+       "share": 0.09
+      },
+      {
+       "color": "#173429",
+       "share": 0.07
+      },
+      {
+       "color": "#647068",
+       "share": 0.07
+      }
+     ],
+     "button": {
+      "bg": "#d6b47b",
+      "hsl": {
+       "h": 38,
+       "s": 0.53,
+       "l": 0.66
+      },
+      "fg": "#172820"
+     },
+     "lowContrast": [
+      {
+       "text": "Make your next move",
+       "ratio": 2.8,
+       "need": 4.5,
+       "size": 10.4,
+       "fg": "#8a6f45",
+       "bg": "#173429"
+      },
+      {
+       "text": "Meet your Realtor",
+       "ratio": 4.1,
+       "need": 4.5,
+       "size": 10.4,
+       "fg": "#8a6f45",
+       "bg": "#f3efe6"
+      },
+      {
+       "text": "in sales closed in 2021",
+       "ratio": 4.1,
+       "need": 4.5,
+       "size": 12,
+       "fg": "#6e766f",
+       "bg": "#f3efe6"
+      },
+      {
+       "text": "clients helped in 2021",
+       "ratio": 4.1,
+       "need": 4.5,
+       "size": 12,
+       "fg": "#6e766f",
+       "bg": "#f3efe6"
+      }
+     ]
+    },
+    "buttons": {
+     "count": 3,
+     "inHero": 1,
+     "radius": 0,
+     "height": 56,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 3,
+     "heroLabels": [
+      "EXPLORE HOMES ↗"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 1,
+     "scrims": 1,
+     "gradientSamples": [
+      "div.absolute.inset-0 → linear-gradient(90deg, rgba(14, 30, 24, 0.88), rgba(14, 30, 24, 0.3))"
+     ],
+     "gradientText": 0,
+     "hairlines": 6,
+     "hairlineSamples": [
+      "header.absolute.inset-x-0 390px",
+      "div.mt-10.grid 350px",
+      "div.divide-y.divide-[#d8d1c6] 350px",
+      "article.group.grid 350px",
+      "article.group.grid 350px"
+     ],
+     "outlinedBoxes": 2,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 6,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.9
+     }
+    ],
+    "nav": {
+     "links": 1,
+     "fixed": false,
+     "height": 97,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "cormorant garamond",
+     "manrope",
+     "manrope fallback"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 7067,
+    "margins": {
+     "left": 20,
+     "right": 20
+    },
+    "sections": [
+     {
+      "sel": "section.hero.relative",
+      "tag": "section",
+      "top": 0,
+      "height": 760,
+      "words": 24,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Find your place",
+       "size": 64,
+       "tag": "h1"
+      },
+      "left": 20,
+      "right": 24,
+      "textLeft": 20,
+      "textRight": 24,
+      "fullBleed": true,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#about.bg-[#f3efe6].px-5",
+      "tag": "section",
+      "top": 760,
+      "height": 1395,
+      "words": 81,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Experience that moves you",
+       "size": 51,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 33,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#listings.relative.bg-[#173429]",
+      "tag": "section",
+      "top": 2155,
+      "height": 771,
+      "words": 31,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Find your dream home.",
+       "size": 36,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 43,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#services.bg-white.px-5",
+      "tag": "section",
+      "top": 2927,
+      "height": 2003,
+      "words": 126,
+      "media": 3,
+      "middle": 0,
+      "heading": {
+       "text": "Real estate, handled with",
+       "size": 51,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 20,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.relative.min-h-[590px]",
+      "tag": "section",
+      "top": 4930,
+      "height": 590,
+      "words": 35,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Don't just list it.",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 22,
+      "textLeft": 20,
+      "textRight": 22,
+      "fullBleed": true,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#contact.bg-[#10241c].px-5",
+      "tag": "section",
+      "top": 5520,
+      "height": 1261,
+      "words": 49,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Let's talk about",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 45,
+      "textLeft": 20,
+      "textRight": 70,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "footer.bg-[#0b1913].px-5",
+      "tag": "footer",
+      "top": 6780,
+      "height": 287,
+      "words": 12,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Marci Metzger",
+       "size": 24,
+       "tag": "p"
+      },
+      "left": 20,
+      "right": 141,
+      "textLeft": 20,
+      "textRight": 141,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Find your place in the valley.",
+      "size": 64,
+      "top": 403,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 20,
+      "n": 22
+     },
+     {
+      "x": 45,
+      "n": 1
+     },
+     {
+      "x": 272,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 24,
+    "bodySize": 14,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "WARN",
+   "id": "mixed-font-headline",
+   "width": 1440,
+   "message": "5 headline(s) switch typeface or to italic mid-line (the \"one italic serif word\" move).",
+   "fix": "Set the whole headline in one face. Emphasis comes from the words.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "eyebrow",
+   "width": 1440,
+   "message": "6 eyebrow/kicker label(s) above headings: \"Pahrump, Nevada real estate\" above \"Find your place in the valley.\"; \"Meet your Realtor\" above \"Experience that moves you forward.\"; \"Make your next move\" above \"Find your dream home.\"; \"How we help\" above \"Real estate, handled with care.\"; \"For sellers\" above \"Don't just list it. Get it sold.\"",
+   "fix": "Delete them. If the label carried real information, fold it into the headline or the supporting sentence.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "numbering",
+   "width": 1440,
+   "message": "Decorative index numbers: \"01\", \"02\", \"03\"",
+   "fix": "Remove them. If order truly matters, write it into the words (\"First, …\") or use a real <ol>.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "micro-label",
+   "width": 1440,
+   "message": "19 tiny uppercase letter-spaced labels (e.g. \"Pahrump, Nevada real estate\", \"Years in real estate\", \"The Ridge Realty Group\", \"Meet your Realtor\").",
+   "fix": "Use sentence-case text at a readable size, or delete the label.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "emoji",
+   "width": 1440,
+   "message": "Emoji in the page: ☎",
+   "fix": "Remove. Use words or real imagery.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "gradient",
+   "width": 1440,
+   "message": "1 gradient fill(s): div.absolute.inset-0 → linear-gradient(90deg, rgba(14, 30, 24, 0.88), rgba(14, 30, 24, 0.3))",
+   "fix": "Use a flat colour or a real image. The only gradient allowed by default is a neutral scrim over a photo for legibility.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "hairline",
+   "width": 1440,
+   "message": "6 thin rule(s)/divider line(s): header.absolute.inset-x-0 1440px | div.mt-10.grid 736px | div.divide-y.divide-[#d8d1c6] 1344px | article.group.grid 1344px",
+   "fix": "Delete. Separate with space, a tone change, or scale. Lines are only for real tables and form fields.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "outlined-box",
+   "width": 1440,
+   "message": "2 box(es) drawn with a 1px outline.",
+   "fix": "Prefer a filled surface or no box.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "palette-cream",
+   "width": 1440,
+   "message": "Yellow-cream background (page background #f3efe6, section #f3efe6).",
+   "fix": "Use the drawn palette. If you want warmth, take a low-chroma stone or bone, not a yellow cream.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "contrast",
+   "width": 1440,
+   "message": "Low-contrast text: \"Make your next move\" 2.8:1 needs 4.5:1; \"Call or visit\" 3.4:1 needs 4.5:1; \"Meet your Realtor\" 4.1:1 needs 4.5:1; \"in sales closed in 2021\" 4.1:1 needs 4.5:1",
+   "fix": "Darken or lighten the text colour.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "size-count",
+   "width": 1440,
+   "message": "15 different font sizes (9, 10, 12, 14, 16, 18, 20, 24, 30, 36, 48, 60, 72, 86, 130).",
+   "fix": "A page needs about five: display, heading, lead, body, small.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "body-size",
+   "width": 1440,
+   "message": "Body text is 14px (the size most of the running text is set in).",
+   "fix": "Body copy 16–20px. Map small sizes from blueprints onto your body step.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "grey-body",
+   "width": 1440,
+   "message": "The running text is a soft grey on its ground (1.1:1).",
+   "fix": "Set body copy in the full ink (7:1 or more). Keep the muted ink for secondary notes; pages read thin and unfinished when everything is grey.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "FAIL",
+   "id": "small-text",
+   "width": 1440,
+   "message": "17 text blocks under 13px.",
+   "fix": "Nothing meant to be read goes below 13px.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "still-page",
+   "width": 1440,
+   "message": "Only 1 element(s) moved while the page loaded and scrolled.",
+   "fix": "Build the motion layer (SKILL.md step 9, references/motion.md): the signature move, an entrance for the parts of every section, feedback on every control, and one moving picture. Transform and opacity only, with a reduced-motion fallback."
+  },
+  {
+   "level": "FAIL",
+   "id": "headline-lines",
+   "width": 768,
+   "message": "3 headline(s) wrap past two lines at 768px: \"Real estate done right\" → 4 lines (4 words, 36px); \"Commercial & residential\" → 3 lines (3 words, 36px); \"Expertise you can rely on\" → 3 lines (5 words, 36px)",
+   "fix": "Cut words first (a headline is a title, not a sentence). Then give it a wider measure. Lower the size only as a last resort and never below the scale you chose. A real statement paragraph belongs in a <p> or <blockquote> at 32px or less."
+  },
+  {
+   "level": "WARN",
+   "id": "untitled-section",
+   "width": 768,
+   "message": "A section carries text but no heading: section#about.bg-[#f3efe6].px-5 at 760px.",
+   "fix": "Name it with a short heading unless it is the continuation of the section above."
+  },
+  {
+   "level": "FAIL",
+   "id": "headline-lines",
+   "width": 390,
+   "message": "1 headline(s) wrap past two lines at 390px: \"Experience that moves you forward.\" → 3 lines (5 words, 51.2px)",
+   "fix": "Cut words first (a headline is a title, not a sentence). Then give it a wider measure. Lower the size only as a last resort and never below the scale you chose. A real statement paragraph belongs in a <p> or <blockquote> at 24px or less."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "D:\\WEBDEV FILE\\Skill Test\\marcimetzger-revamp\\.taste-skill\\before\\desktop-fold.jpg",
+   "pages": [
+    "D:\\WEBDEV FILE\\Skill Test\\marcimetzger-revamp\\.taste-skill\\before\\desktop-page-01.jpg",
+    "D:\\WEBDEV FILE\\Skill Test\\marcimetzger-revamp\\.taste-skill\\before\\desktop-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "D:\\WEBDEV FILE\\Skill Test\\marcimetzger-revamp\\.taste-skill\\before\\tablet-fold.jpg",
+   "pages": [
+    "D:\\WEBDEV FILE\\Skill Test\\marcimetzger-revamp\\.taste-skill\\before\\tablet-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "D:\\WEBDEV FILE\\Skill Test\\marcimetzger-revamp\\.taste-skill\\before\\mobile-fold.jpg",
+   "pages": [
+    "D:\\WEBDEV FILE\\Skill Test\\marcimetzger-revamp\\.taste-skill\\before\\mobile-page-01.jpg",
+    "D:\\WEBDEV FILE\\Skill Test\\marcimetzger-revamp\\.taste-skill\\before\\mobile-page-02.jpg"
+   ],
+   "film": []
+  }
+ ]
+}
